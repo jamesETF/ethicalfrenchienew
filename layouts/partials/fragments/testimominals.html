@@ -1,0 +1,36 @@
+{{- $self := .self -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div id="testimonial-slider" class="owl-carousel mb-4">
+        {{- range .Params.testimominals -}}
+          <div class="testimonial">
+            <div class="pic">
+              {{- if .image -}}
+                <img src="{{ .image }}" alt="">
+              {{- end -}}
+            </div>
+            <p class="description">
+              {{ .description }}
+            </p>
+            <div class="testimonial-content">
+              <a
+                {{ if .url }}
+                  href="{{ printf "%s" .url }}"
+                  target="_blank"
+                {{ else }}
+                  href="#"
+                {{ end }}
+                lass="title">{{ .name }}</a>
+              {{- if .date -}}
+                <span class="date">{{ .date }}</span>
+              {{- end -}}
+            </div>
+          </div>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,48 @@
+{{- $self := . -}}
+{{- if .Params.particles -}}
+  {{- .page_scratch.Add "js" (dict "file" "syna-hero.js") -}}
+{{- end -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{ "<!-- Hero -->" | safeHTML }}
+<main id="{{ .Name }}" class="fragment hero">
+  {{- if .Params.header }}
+    <div
+      style="background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.header) }})"
+      class="jumbotron text-center header-image mb-0
+        {{- printf " bg-%s" $bg -}}
+      ">
+  {{- else }}
+    <div class="jumbotron text-center mb-0
+      {{- printf " bg-%s" $bg -}}
+    ">
+  {{- end }}
+  {{- if .Params.particles }}
+    <div id="{{ printf "%s-particles-js" .Name }}" class="particles-js"></div>
+  {{- end -}}
+  </div>
+  <nav class="cta-social">
+    {{ with .Params.social }}
+      <a href="https://www.facebook.com/{{.}}" class="social-icon facebook" target="_blank" rel="noopener">
+        {{ $facebok := resources.Get "img/facebook.svg" | minify }}
+        <img src="{{ $facebok.Permalink }}" alt="Connect with us on Facebook">
+      </a>
+      <a href="https://www.instagram.com/{{.}}" class="social-icon instagram" target="_blank" rel="noopener">
+        {{ $instagram := resources.Get "img/instagram.svg" | minify }}
+        <img src="{{ $instagram.Permalink }}" alt="Connect with us on Instagram">
+      </a>
+    {{ end }}
+    <a href="tel:+18002057859" class="social-icon tel" target="_blank" rel="noopener">
+      {{ $phone := resources.Get "img/phone.svg" | minify }}
+      <img src="{{ $phone.Permalink }}" alt="Call us">
+    </a>
+  </nav>
+</main>
+<script>
+  var fragmentName = "{{ .Name }}";
+  {{- $file_path := printf "%s%s/config.json" .page.File.Dir .Name -}}
+  window.syna.api.register("hero", "hero-" + fragmentName, {
+    selector: "{{ printf "%s-particles-js" .Name }}",
+    config: {{ if fileExists $file_path -}} JSON.parse({{ readFile $file_path | safeHTML }}) {{- else -}} null {{- end -}},
+  });
+</script>

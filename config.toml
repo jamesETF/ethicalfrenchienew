@@ -1,0 +1,59 @@
+baseURL = "https://adoring-stonebraker-2fc731.netlify.com/"
+copyright = "Ethical Frenchie LLC"
+languageCode = "en-us"
+languageLang = "en"
+title = "Ethical Frenchie"
+themesDir = "themes"
+theme = "syna"
+
+[params]
+  name = "James Harisson"
+  description = "Find the best french bulldogs for sale over the phone or in person. Vigorous qualification standards. Applications required. Call now (800) 205-7859."
+  debug = false
+  unsafeEvents = false # Default is false. Enables ?event=type format of url events.
+  social = "ethicalfrenchie"
+
+  [params.style]
+    background = "#fefefe"
+
+  # Theme customizations
+  # Assets relative to 'static/'
+  [params.custom]
+    # favicon = "favicon.ico"
+    favicon_ico_sizes = "16x16 32x32"
+    favicon_png = "favicon.png"
+    # favicon_svg = "favicon.svg"
+
+[author]
+  name = "James Harrison"
+  email = "adopt@ethicalfrenchie.com"
+  dev = "Juan Villela"
+  devEmail = "hello@juanvillela.me"
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "/"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  url = "/about-us"
+  name = "About Us"
+  weight = 15
+
+[[menu.main]]
+  url = "/puppies"
+  name = "Puppies"
+  weight = 20
+
+[[menu.main]]
+  url = "/blog"
+  name = "Our Blog"
+  weight = 25
+
+[[menu.main]]
+  url = "/contact-us"
+  name = "Contact"
+  weight = 30

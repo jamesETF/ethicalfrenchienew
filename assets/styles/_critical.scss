@@ -1,0 +1,149 @@
+@import 'variables';
+@import 'extends';
+@import 'mixins';
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+html {
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+}
+a {
+  color: $main;
+}
+body {
+  font: 400 18px 'Montserrat', sans-serif;
+  height: 100%;
+  margin: 0 auto;
+  overflow-x: hidden;
+  padding: 0;
+  width: 100%;
+  padding: 0 10px;
+  padding-left: constant(safe-area-inset-left);
+  padding-right: constant(safe-area-inset-right);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+  header {
+    @extend %content-center;
+    @extend %fixed;
+    @extend %full-width;
+    @extend %items-center;
+    background-color: $background;
+    box-shadow: 0 4px 18px 0 rgba(0,0,0,0.08);
+    height: 55px;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 50;
+  }
+  & > main {
+    padding: 0;
+    @include media-query-min($md) {
+      margin: 55px 0 0;
+    }
+    div.header-image {
+      @extend %full-width;
+      height: 885px;
+      margin-bottom: 20px;
+      background-position: top;
+      @include media-query-max($dsk) {
+        height: 765px;
+      }
+      @include media-query-max($tbl) {
+        height: 585px;
+      }
+      @include media-query-max($phn-lg) {
+        height: 345px;
+      }
+      @include media-query-max($phn-sm) {
+        height: 265px;
+      }
+    }
+    nav.cta-social {
+      margin: -20px auto 0;
+    }
+  }
+  a.brand {
+    @extend %no-decoration;
+    color: $text;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    &:hover {
+      @extend %no-decoration;
+      color: $text;
+    }
+    span {
+      color: $main;
+      margin: 0;
+    }
+  }
+  div.swiper-container {
+    @extend %relative;
+    overflow: hidden;
+    z-index: 1;
+    ul.swiper-wrapper {
+      @extend %flex;
+      @extend %full-width;
+      @extend %relative;
+      box-sizing: content-box;
+      margin: 0;
+      padding: 0;
+      transition-property: transform;
+      z-index: 1;
+      li.swiper-slide {
+        @extend %full-width;
+        @extend %relative;
+        flex-shrink: 0;
+        list-style: none;
+        margin: 0;
+        transition-property: opacity;
+      }
+    }
+  }
+  nav.cta-social {
+    @extend %content-space-around;
+    @extend %flex;
+    @extend %items-center;
+    @extend %relative;
+    width: 190px;
+    z-index: 20;
+    button {
+      border: none;
+      outline: none;
+    }
+    > * {
+      @extend %content-center;
+      @extend %flex;
+      @extend %items-center;
+      border-radius: 6px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.10);
+      height: 40px;
+      width: 40px;
+      &.facebook {
+        background-color: #3B5998;
+      }
+      &.instagram {
+        background-color: #E1306C;
+      }
+      &.linkedin {
+        background-color: #006097;
+      }
+      &.tel {
+        background-color: #8CC152;
+      }
+      &.scroll-up {
+        background-color: #656D78;
+      }
+      img {
+        height: 15px;
+        width: 15px;
+      }
+    }
+  }
+  div#intercom-container > div.intercom-app > iframe.intercom-launcher-frame {
+    bottom: 80px !important;
+  }
+}
