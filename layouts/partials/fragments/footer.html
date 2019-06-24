@@ -60,7 +60,7 @@
       {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
     ">
       {{- with .self.Content }}
-        <div>
+        <div class="text-right">
           {{- . | markdownify -}}
         </div>
       {{- end }}
