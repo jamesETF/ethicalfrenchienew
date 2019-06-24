@@ -4,6 +4,7 @@ background = "light"
 date = "2017-10-04"
 fragment = "item"
 title = "French Bulldog Puppies for Sale in New York"
+subtitle = "Are you looking for French Bulldog Puppies for sale in New York or surrounding areas? Welcome to Ethical Frenchie."
 weight = 100
 [[buttons]]
 color = "primary"
