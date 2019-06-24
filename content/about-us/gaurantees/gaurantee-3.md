@@ -14,7 +14,7 @@ pre = ""
 post = ""
 
 [asset]
-  image = "gaurantees/buy.svg"
+  image = "buy.svg"
 +++
 
 There are 60-70 million stray dogs and cats in USA. We, by no means want to increase this number, so we ask our potential buyers to please research the breed or ask as many questions as possible. We want to make sure the puppy is a match for your home, and that you will commit to accepting your new addition and caring for it for the next 10+ years. Don’t get one because it’s a trend, or because your neighbor has one and they look cute. They are funny and quirky but also delicate and require a lot of work.

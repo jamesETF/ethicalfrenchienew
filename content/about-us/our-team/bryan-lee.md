@@ -7,5 +7,5 @@ weight = 123
   url = "https://www.facebook.com/ethicalfrenchie"
 
 [asset]
-  image = "our-team/bryan.jpg"
+  image = "bryan.jpg"
 +++

@@ -12,7 +12,7 @@ My mom tells me I have the perfect structure and composition – I will grow up 
 """
 
 [asset]
-  image = "puppies/ego.jpg"
+  image = "ego.jpg"
 +++
 
 ### Personality
@@ -33,7 +33,7 @@ Also feel free to explore our blog on the best products you can use for French B
 
 If you are looking for French Bulldog Puppies for adoption NYC, please fill out the contact form and we will be with you in no time. Our blue frenchies are waiting for their forever homes now!
 
-![Photo of ego](ego_1.jpg)
-![Photo of ego](ego_2.jpg)
+![Photo of ego](/images/ego_1.jpg)
+![Photo of ego](/images/ego_2.jpg)
 
 **Location**: NYC

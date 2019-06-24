@@ -14,7 +14,7 @@ pre = ""
 post = ""
 
 [asset]
-  image = "gaurantees/healthy.svg"
+  image = "healthy.svg"
 +++
 
 Newborn French Bulldog puppies require extra care. The first 10 days of their life are crucial. Puppies can fade away in an instant if you aren’t present at all times. Making sure they eat every 2 hours, that their temperature doesn’t drop, that they are all gaining weight equally and of course just observing their overall behavior – not missing something that would indicate a major health issue.

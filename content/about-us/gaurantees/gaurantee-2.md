@@ -14,7 +14,7 @@ pre = ""
 post = ""
 
 [asset]
-  image = "gaurantees/socialization.svg"
+  image = "socialization.svg"
 +++
 
 The socialization of your French Bulldog puppy starts early. Since they are raised inside the house they get exposed to variety of sounds and people as soon as their “ears open” at around 10-14 days of age. Yes, all puppies are born deaf and blind – they rely on their sense of smell to crawl around and find their mother during “feeding time”.

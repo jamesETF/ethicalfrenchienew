@@ -10,5 +10,5 @@ weight = 121
   url = "https://linkedin.com/in/jamesharrisoniii"
 
 [asset]
-  image = "our-team/james.jpg"
+  image = "james.jpg"
 +++
