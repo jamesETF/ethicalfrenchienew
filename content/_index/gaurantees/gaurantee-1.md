@@ -2,7 +2,7 @@
 title = "Healthy Frenchie Gaurantee"
 weight = 10
 [asset]
-    image = "gaurantees/healthy.svg"
-+++
+image = "gaurantees/healthy.svg"
 
-How do we guarantee healthy Frenchie puppies? Learn more about what measures we implement before the breeding and between the whelping process, to guarantee their health, before advertising our French Bulldog puppies for sale.
++++
+Being an ethical French Bulldog Breeder requires a lot of preparation and health testing before producing a litter. Click here to learn more about the measures we implement prior to breeding and while whelping a French Bulldog litter. Just like with every animal, there aren’t any life long guarantees, but we like to do our best to produce the healthiest French Bulldog Puppies.
