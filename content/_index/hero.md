@@ -1,12 +1,11 @@
 +++
-fragment = "hero"
-#disabled = true
+background = "light"
 date = "2016-09-07"
-weight = 50
-background = "light" # can influence the text color
-social = "ethicalfrenchie"
+fragment = "hero"
 particles = true
+social = "ethicalfrenchie"
+weight = 50
 [header]
-  image = "hero/hero-1.jpg"
+image = "Ethical_Frenchie_Home_Picture.png"
 
 +++
