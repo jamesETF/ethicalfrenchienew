@@ -27,6 +27,7 @@
   <meta name="twitter:title" content="{{ $title }}" />
   <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Scratch.Get "page_description" }}{{ end }}">
   <meta name="twitter:url" content="{{ .Permalink }}" />
+  {{ with .Site.Params.Keywords }}<meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
   {{- if $content_fragment -}}
     {{- range $content_fragment -}}
       {{- if and .Params.asset -}}

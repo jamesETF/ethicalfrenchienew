@@ -1,5 +1,5 @@
 +++
-date = "2018-07-20"
-title = "Ethical Frenchie"
-description = "Find the best french bulldogs for sale over the phone or in person. Vigorous qualification standards. Applications required. Call now (800) 205-7859."
+date = ""
+title = "Ethical Frenchie | French Bulldog Breeder | New York City"
+description = "Small French Bulldog Breeder with a focus on socialization, health and temperament. Call 212 739 0182 to meet our adorable French Bulldog Puppies for sale."
 +++

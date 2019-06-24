@@ -2,16 +2,17 @@ baseURL = "https://ethicalfrenchie.com/"
 copyright = "Ethical Frenchie LLC"
 languageCode = "en-us"
 languageLang = "en"
-title = "Ethical Frenchie"
+title = "Ethical Frenchie | French Bulldog Breeder | New York City"
 themesDir = "themes"
 theme = "syna"
 
 [params]
   name = "James Harisson"
-  description = "Find the best french bulldogs for sale over the phone or in person. Vigorous qualification standards. Applications required. Call now (800) 205-7859."
+  description = "Small French Bulldog Breeder with a focus on socialization, health and temperament. Call 212 739 0182 to meet our adorable French Bulldog Puppies for sale."
   debug = false
   unsafeEvents = false # Default is false. Enables ?event=type format of url events.
   social = "ethicalfrenchie"
+  keywords = ["French Bulldog Breeder", "French Bulldog Puppies for sale New York"]
 
   [params.style]
     background = "#fefefe"
