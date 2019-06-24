@@ -7,6 +7,7 @@ How to Train a French Bulldog Puppy by The French Bulldog Guide It can be frustr
 """
 description = "Here at Ethical Frenchie we start the potty training process early on. Our puppies understand the \"potty\" command as early as 9 weeks of age. They mimic their mothers behavior and go \"potty\" outside every 2 hours. Positive reinforcement goes a long way. We can’t promise they will be completely potty trained when you get them, but they will have the basic understanding of it. Read more instructions on basic training provided by The French Bulldog guide below."
 author = "James Harrison"
+aliases = ["/potty-train-your-frenchie"]
 
 #subtitle = ""
 fragment = "blog"

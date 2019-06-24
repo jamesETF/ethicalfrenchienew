@@ -7,6 +7,7 @@ It’s something we hear too often these days. Unfortunately people don’t unde
 """
 description = "Find where and how you can find inexpensive french bulldog puppies for under $500."
 author = "James Harrison"
+aliases = ["/cheap-french-bulldog-puppies-under-500"]
 
 #subtitle = ""
 fragment = "blog"
