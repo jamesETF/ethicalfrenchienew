@@ -5,7 +5,7 @@ fragment = "hero"
 particles = true
 social = "ethicalfrenchie"
 weight = 50
-[header]
+[hero]
 image = "Ethical_Frenchie_Home_Picture.png"
 
 +++

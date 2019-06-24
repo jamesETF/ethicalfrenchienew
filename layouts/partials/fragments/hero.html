@@ -6,9 +6,9 @@
 
 {{ "<!-- Hero -->" | safeHTML }}
 <main id="{{ .Name }}" class="fragment hero">
-  {{- if .Params.header }}
+  {{- if .Params.hero }}
     <div
-      style="background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.header) }})"
+      style="background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.hero) }})"
       class="jumbotron text-center header-image mb-0
         {{- printf " bg-%s" $bg -}}
       ">
