@@ -411,9 +411,8 @@ main.puppy-list {
   }
 }
 body div#intercom-container>div.intercom-app>iframe.intercom-launcher-frame {
-  bottom: 80px!important;
-  left: auto;
-}
-.intercom-namespace .intercom-1iewm74{
-  left: auto !important;
+  bottom: 57px!important;
+  @include media-query-max($md) {
+    bottom: 75px!important;
+  }
 }
