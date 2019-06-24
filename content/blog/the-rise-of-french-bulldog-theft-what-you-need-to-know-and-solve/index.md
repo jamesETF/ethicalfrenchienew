@@ -19,7 +19,7 @@ display_categories = true
 [sidebar]
   align = "right"
 [asset]
-  image = "french-bulldog.jpg"
+  image = "/french-bulldog.jpg"
 +++
 
 Feature pic: French bulldog
@@ -70,7 +70,7 @@ Various French bulldog websites and media groups involve active communities who 
 
 ## How to Be More Consciously Safe When Walking Your Puppy
 
-![When walking your frenchies](https://d33wubrfki0l68.cloudfront.net/e1e970f66f9327255897c0934f96da67835f4933/a4c15/img/blog/frenchievet.webp "When Walking your puppy")
+![When walking your frenchies](/images/frenchievet.webp "When Walking your puppy")
 
 When you let him run freely, only if he has good recall, keep him in sight. Immediately recall and poop him back on the lead if you detect any abnormality.
 

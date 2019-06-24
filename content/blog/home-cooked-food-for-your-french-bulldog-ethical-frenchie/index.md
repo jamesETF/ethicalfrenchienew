@@ -20,12 +20,12 @@ display_categories = true
   align = "right"
 
 [asset]
-  image = "home-cooked-food-for-your-french-bulldog_hero.jpg"
+  image = "/home-cooked-food-for-your-french-bulldog_hero.jpg"
 +++
 
 ## 1. Beef Stew by Canine Journal
 
-![Beef Stew by Canine Journal](https://d33wubrfki0l68.cloudfront.net/5a28ef8708b038fd80157e61d645719cb8fb280e/84d03/img/blog/home-cooked-food-for-your-french-bulldog_1.jpg)
+![Beef Stew by Canine Journal](/images/home-cooked-food-for-your-french-bulldog_1.jpg)
 
 ### Ingredients
 
@@ -67,7 +67,7 @@ display_categories = true
 
 ## 2. Veggies and Turkey Mix
 
-![Veggies and Turkey Mix](https://d33wubrfki0l68.cloudfront.net/1abcfaef93fa3b4bcb8460b56c15d284fb5f19aa/b720f/img/blog/home-cooked-food-for-your-french-bulldog_2.jpg)
+![Veggies and Turkey Mix](/images/home-cooked-food-for-your-french-bulldog_2.jpg)
 
 ### Ingredients
 
@@ -123,7 +123,7 @@ display_categories = true
 
 ## 4. The Doggy Pot
 
-![The Doggy Pot](https://d33wubrfki0l68.cloudfront.net/807c271caf9760331149d2e261e1493fccc2e18e/6d631/img/blog/home-cooked-food-for-your-french-bulldog_3.jpg)
+![The Doggy Pot](/images/home-cooked-food-for-your-french-bulldog_3.jpg)
 
 ### Ingredients
 

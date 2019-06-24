@@ -20,7 +20,7 @@ display_categories = true
   align = "right"
 
 [asset]
-  image = "potty-train-your-frenchie_hero.jpg"
+  image = "/potty-train-your-frenchie_hero.jpg"
 +++
 
 ## How to Train a French Bulldog Puppy by *The French Bulldog Guide*

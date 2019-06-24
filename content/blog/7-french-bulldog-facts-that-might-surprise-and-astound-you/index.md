@@ -20,7 +20,7 @@ display_categories = true
   align = "right"
 
 [asset]
-  image = "cheap-french-bulldog-puppies-under-500_5.jpg"
+  image = "/cheap-french-bulldog-puppies-under-500_5.jpg"
 +++
 
 ## 1. French Bulldogs are a Hit with Hollywood Royalty
@@ -33,7 +33,7 @@ The late Carrie Fisher was also known to walk the red carpet with her French Bul
 
 ## 2. The French Bulldog Could have Been Named the “French-English-and-American Bulldog
 
-![Happy Frenchie Puppy from Ethical Frenchie](https://d33wubrfki0l68.cloudfront.net/3155d3f42600fe8c768d7bfbfa971eb5356eec05/448ab/img/blog/english-bulldog-french-bulldog-puppy.jpg)
+![Happy Frenchie Puppy from Ethical Frenchie](/images/english-bulldog-french-bulldog-puppy.jpg)
 
 The French Bulldog is a not-so-distant descendant of its larger cousin, the English Bulldog. About 150-200 years ago, while English Bulldogs seemed to get buffer and beefier, there were breeders that were developing a smaller, daintier bulldog. These more petite pooches were all the rage for English lace-makers.
 
@@ -45,7 +45,7 @@ So, all three countries played important roles in the Frenchie we know and love 
 
 ## 3. Frenchies are a Big-City Favorite
 
-![Happy Frenchie Puppy from Ethical Frenchie](https://d33wubrfki0l68.cloudfront.net/2e082ab91a1277b35729fbf2bed363fe562f859e/b4832/img/blog/french-bulldog-meetup.jpg)
+![Happy Frenchie Puppy from Ethical Frenchie](/images/french-bulldog-meetup.jpg)
 
 While it’s easy to see why Frenchies are so darn lovable, their popularity stats in the United States are remarkable!
 
@@ -57,7 +57,7 @@ Their easy-going nature and compact, but sturdy, size makes them the perfect com
 
 ## 4. Oh, Toto! There’s No Dog like a Frenchie!
 
-![Happy Frenchie Puppy from Ethical Frenchie](https://d33wubrfki0l68.cloudfront.net/21f4809374df70a4df62df8511baeeb5baa0b979/9aebd/img/blog/french-bulldog-linkedin-photo.jpg)
+![Happy Frenchie Puppy from Ethical Frenchie](/images/french-bulldog-linkedin-photo.jpg)
 
 While the dog actor that played Toto in the film production of The Wizard of Oz, was a Cairn Terrier named Terry, the original illustrator of The Road to Oz and The Emerald City, R. A. Neill, depicted Toto as a French Bulldog. If it weren’t for a last-minute change, the film version of Toto probably would have been played by a fabulous Frenchie instead. A Wichita resident pushed for Toto to be played by a Cairn Terrier since they were the state dog of Kansas.
 
@@ -65,7 +65,7 @@ But there’s truly no place like home with a Frenchie waiting for you. And the 
 
 ## 5. Your Frenchie is No Michael Phelps
 
-![Happy Frenchie Puppy from Ethical Frenchie](https://d33wubrfki0l68.cloudfront.net/0b7696faeeaaba8dad5f9f0874d7adb502460f47/0d54f/img/blog/french-bulldog-at-the-beach.jpg)
+![Happy Frenchie Puppy from Ethical Frenchie](/images/french-bulldog-at-the-beach.jpg)
 
 If you see a French Bulldog in a lake or pool, it’s probably adorned in a life jacket. This isn’t just a great fashion statement. Most Frenchies cannot swim without one.
 
@@ -75,7 +75,7 @@ But this doesn’t prevent them from being able to wade in shallow water or take
 
 ## 6. Ribbit, Ribbit! Here Comes the Frog Dog!
 
-![Happy Frenchie Puppy from Ethical Frenchie](https://d33wubrfki0l68.cloudfront.net/3155d3f42600fe8c768d7bfbfa971eb5356eec05/448ab/img/blog/english-bulldog-french-bulldog-puppy.jpg)
+![Happy Frenchie Puppy from Ethical Frenchie](/images/english-bulldog-french-bulldog-puppy.jpg)
 
 While Frenchies are known for being a Yankee favorite, they rarely get called “Yankee dogs.” In fact, you’re much more likely to here one of these love bugs referred to as “frog dogs.” This may seem odd since they aren’t aquatic athletes, but it has more to do with their origin and appearance.
 
