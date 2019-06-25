@@ -1,26 +1,20 @@
 +++
 fragment = "puppy"
-weight = 102
-#background = ""
-
+summary = false
 title = "Electra"
-#subtitle = ""
 title_align = "left"
-
-summary = """
-I'm extremely sweet and easily adjustable to new situations and environments.
-"""
-
+weight = 102
 [asset]
-  image = "electra.jpg"
-+++
+image = "electra.jpg"
+text = "Photo of Electra"
 
++++
 Meet ELECTRA! She is one of our French Bulldog puppies for sale in NY. She’s a merle blue pied French Bulldog puppy with amazing blue eyes – standard for the merle. Electra definitely makes a statement with her appearance and her awesome temperament.
 
 This litter only produced 3 puppies. Two girls and one boy who unfortunately didn’t make it. Our merle French Bulldog girls are almost ready to go to their forever homes, right after their next round of vaccines in the following week. We consider ourselves to be reputable French Bulldog breeders and provide best care for our puppies. We are talking about 24⁄7 contact care, temperature measuring, weighing, so losing a puppy is twice as devastating, when you know you did everything right.
 
 ![Photo of electra](/images/electra_1.jpg)
-![Photo of electra](/images/electra_2.jpg)
+![Photo of electra](/images/electra_2.jpg "Electra Silhouete")
 
 ### Personality
 
