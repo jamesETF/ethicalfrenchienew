@@ -7,7 +7,6 @@ summary = """
 """
 description = "Check out a few unique and raw recipes made for the health conscious Frenchie owner."
 author = "James Harrison"
-aliases = ["/home-cooked-food-for-your-french-bulldog-ethical-frenchie"]
 
 #subtitle = ""
 fragment = "blog"

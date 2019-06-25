@@ -7,7 +7,6 @@ Choose home made over store bought. You will know exactly what your French Bulld
 """
 description = "Enjoy these delicious home made treats and recipes approved and loved by the Frenchie community."
 author = "James Harrison"
-aliases = ["/french-bulldog-home-made-treats-ethical-frenchie"]
 
 #subtitle = ""
 fragment = "blog"

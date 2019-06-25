@@ -7,7 +7,6 @@ Here are a few highlights since their birth in December to now…
 """
 description = "The first 2019 French Bulldog puppies are almost ready. We just couldn’t resist sharing the upcoming news of our beautiful blue french bulldog litter."
 author = "James Harrison"
-aliases = ["/blue-pied-french-bulldog-puppies-ethical-frenchie"]
 
 #subtitle = ""
 fragment = "blog"

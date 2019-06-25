@@ -7,7 +7,6 @@ Even the best kibble is still highly processed at the end of the day, so make su
 """
 description = "Find the best dog food brands made for just for your frenchie. If you are short on time and can’t cook for your Frenchie these dog food brands will do the job."
 author = "James Harrison"
-aliases = ["/dog-food-brands-we-trust-for-our-frenchie"]
 
 #subtitle = ""
 fragment = "blog"

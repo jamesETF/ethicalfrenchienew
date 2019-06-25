@@ -7,7 +7,6 @@ Dogs don’t require everyday grooming as humans do. You should bathe your Frenc
 """
 description = "Learn a few tips and ticks on how to properly groom your frenchie. French Bulldogs are a sensitive dog breed so natural products work best."
 author = "James Harrison"
-aliases = ["/frenchies-grooming-tips"]
 
 #subtitle = ""
 fragment = "blog"

@@ -7,7 +7,6 @@ summary = """
 """
 description = "So, you’re reading a French Bulldog blog -- it’s apparent that you probably love this breed. But, even the most informed French Bulldog enthusiasts may be surprised to learn some of these unique and awe-inspiring Frenchie facts."
 author = "James Harrison"
-aliases = ["/7-french-bulldog-facts-that-might-surprise-and-astound-you"]
 
 #subtitle = ""
 fragment = "blog"
