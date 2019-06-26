@@ -36,7 +36,7 @@ An all time favorite in our household that actually decreased shedding and flatu
 
 ## Open Farm Freeze Dried Raw Food
 
-![Open Farm Freeze Dry](/images/Open-Farm-Freeze-Dried.png "Open-Farm-Freeze-Dry")
+![Open Farm](/images/Open-farm.jpg "Open-farm")
 
 Many French Bulldog owners swear by the raw diet. If you are too grossed out to actually prepare the meals yourself, you can always decide to go with many Open Farm Freeze Dried Raw Food variations. Fresh stuff, no fillers, middle price range. Many French Bulldog owners swear that the best dog food for this breed is RAW, and I couldn’t agree more.
 
