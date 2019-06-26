@@ -5,7 +5,6 @@ date = "2019-06-25T17:00:00-04:00"
 description = "Sample blog 2 description"
 display_categories = true
 display_date = true
-draft = true
 fragment = "fragment"
 summary = "Sample blog 2 summary"
 title = "Sample Blog 2"
