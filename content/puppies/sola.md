@@ -7,6 +7,8 @@ title = "Sola"
 #subtitle = ""
 title_align = "left"
 
+description = ""
+
 summary = """
 I'm Sola, Electras big sister.
 """

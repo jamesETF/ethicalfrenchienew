@@ -4,6 +4,7 @@ summary = false
 title = "Electra"
 title_align = "left"
 weight = 102
+description = ""
 [asset]
 image = "electra.jpg"
 text = "Photo of Electra"

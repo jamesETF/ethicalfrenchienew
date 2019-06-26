@@ -11,6 +11,8 @@ summary = """
 Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere.
 """
 
+description = ""
+
 [asset]
   image = "diamond.jpg"
 +++
