@@ -44,5 +44,6 @@ fields:
     name: image
     label: image
 pages:
+- content/blog/french-bulldog-health-risks-welfare-problems-behind-the-cute-face.md
 - content/blog/the-rise-of-french-bulldog-theft-what-you-need-to-know-and-solve.md
 - content/blog/sample-blog-1.md
