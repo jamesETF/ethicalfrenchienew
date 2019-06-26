@@ -24,6 +24,8 @@ sections:
   label: Puppies
   create: all
   match: "**/*"
+  templates:
+  - puppy
 - type: directory
   path: content/_global
   label: Global
@@ -34,6 +36,8 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - blog
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
