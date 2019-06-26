@@ -20,13 +20,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/puppies
-  label: Puppies
-  create: all
-  match: "**/*"
-  templates:
-  - puppy
-- type: directory
   path: content/_global
   label: Global
   create: all
