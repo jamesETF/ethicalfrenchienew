@@ -43,3 +43,5 @@ fields:
   - type: file
     name: image
     label: image
+pages:
+- content/blog/sample-blog-1.md
