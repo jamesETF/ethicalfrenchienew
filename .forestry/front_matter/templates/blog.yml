@@ -44,5 +44,6 @@ fields:
     name: image
     label: image
 pages:
+- content/blog/what-is-a-blue-french-bulldog-and-how-to-care-for-them.md
 - content/blog/french-bulldog-health-risks-welfare-problems-behind-the-cute-face.md
 - content/blog/sample-blog-1.md
