@@ -5,7 +5,6 @@ date = "2019-06-26T00:00:00-04:00"
 description = ""
 display_categories = true
 display_date = true
-draft = true
 fragment = "blog"
 summary = ""
 title = "A Thorough Understanding of Nutrients for French Bulldogs"
