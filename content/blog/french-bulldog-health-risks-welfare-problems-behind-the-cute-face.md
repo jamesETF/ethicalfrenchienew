@@ -5,7 +5,7 @@ date = "2019-06-20T00:00:00-04:00"
 description = "French bulldog health risks - what you need to know before bringing a new French Bulldog puppy to your family. Be a responsible dog owner and research the breed before committing. "
 display_categories = true
 display_date = true
-fragment = "Blog"
+fragment = "blog"
 summary = "Every purebred dog comes with some health risks. If you are trying to learn more about French Bulldog health risks keep on reading. We will cover some of the most basic condition that occur in the breed and are for the most, unpredictable."
 title = "French bulldog health risks – Welfare problems behind the cute face"
 [asset]
