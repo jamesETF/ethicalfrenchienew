@@ -9,7 +9,7 @@ fragment = "blog"
 summary = "Every purebred dog comes with some health risks. If you are trying to learn more about French Bulldog health risks keep on reading. We will cover some of the most basic condition that occur in the breed and are for the most, unpredictable."
 title = "French bulldog health risks – Welfare problems behind the cute face"
 [asset]
-image = "/images/White-French-Bulldog.jpg"
+image = "/images/White-French-Bulldog-1.jpg"
 [sidebar]
 align = "right"
 
@@ -21,8 +21,6 @@ According to researchers at The Royal Veterinary College (RVC), UK, Frenchies wi
 Although the dogs are known to be the “healthiest” of all the “bully” breeds, treatments for any suffering can be costly.
 
 That is why it always makes sense to get your Frenchies from [a reputable breeder](www.ethicalfrenchie.com) and invest in pet insurance.
-
-![French Bulldog Puppies](/images/French-bulldog-puppies.jpg "French-bulldog-puppies")
 
 ## Common French bulldog health risks
 
@@ -44,7 +42,7 @@ The causes could be anything like fleas, allergens in food, pollens, dander, or 
 
 Brachycephalic, one of the most common French bulldog health risks, refers to “a short head” or “flat face.” This means the dogs have to breathe through a short muzzle and compensate by respiring through the mouth.
 
-![](/images/French-bulldog-flat-face.jpg)
+![French Bulldog Flat Snout](/images/French-bulldog-flat-snout.jpg "French-bulldog-flat-snout")
 
 “When it comes to exercise, rather than going for one long off-lead walk every day, it is safer to take three shorter off-lead walks as brachycephalic breeds tire easily and find it difficult to breathe due to their short muzzles. It is important that an owner understands the needs of their pet, monitors their breathing while exercising, and takes extra precautions to ensure they don’t overdo it.”
 
@@ -66,7 +64,7 @@ For bacterial infection, antibiotic medications may be prescribed. If the cause 
 
 This health disorder exhibits the tear gland protruding out of the red membrane in the eyes. The swelling will grow larger and redder and later damage the eyes.
 
-![French Bulldog Cherry Eye](/images/French-bulldog-cherry-eye.jpg "French-bulldog-cherry-eye")
+![French Bulldog Cherry Eye](/images/French-bulldog-cherry-eye-1.jpg "French-bulldog-cherry-eye")
 
 Many times the condition doesn't present a serious health issue and can be fixed with a gentle massage. In extreme cases vet will recommend surgery to remove the tear gland. However, the postoperative result can develop dry eyes for the rest of the days.
 
@@ -78,7 +76,7 @@ Frenchies’ smushed faces again bring them one more common health issue prevail
 
 The dogs usually struggle to cool themselves when the degree is up. This difficulty associated with the short face in which Frenchies can’t release the heat off efficiently, eventually leading to heat stroke. Avoid playing outside during the hot summer weather. I recommend skipping the dog park during the day and scheduling it either early morning or after 7 PM.
 
-![](/images/French-bulldog-excercise.jpg)
+![French Bulldog Excercise](/images/French-bulldog-excercise-1.jpg "French-bulldog-excercise")
 
 To know if your French pup is suffering the heat stress, notice if he is panting excessively, in convulsions or even vomiting.
 
@@ -110,7 +108,7 @@ Reference:
 
 The inability to hear can come from genetic defects. It also happens in senior dogs. People reckon extreme pied French Bulldogs, the dogs with genes associated with the lack of pigment cells, are the kind that is prone to this hearing loss.
 
-![White French Bulldog](/images/White-French-Bulldog.jpg "White-french-bulldog")
+![White French Bulldog](/images/White-French-Bulldog-1.jpg "White-french-bulldog")
 
 It could be funny to think how the color affects the listening ability, but there are indeed little hairs called cilia doesn’t grow without the presence of pigment cells causing deafness in Frenchies. The high risk is present in dogs who are all white, or Pied French Bulldogs with little to no markings in the ear area.
 
