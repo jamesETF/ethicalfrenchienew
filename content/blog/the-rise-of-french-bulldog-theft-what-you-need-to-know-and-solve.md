@@ -28,8 +28,6 @@ The type of stolen dogs is indicative of their outstanding value for resale and 
 
 For example the chocolate, merle or **grey/blue French bulldog** sells more than common colored ones like pied, fawn, or brindle. Especially the cost of a blue puppy ranks the highest given its rareness and desire.
 
-![Blue Frenchie](/images/blue-frenchie-1.jpg "blue-frenchie")
-
 Their expensive price tag boils down to the high expense of raising this breed. That figure tends to increase if the dog has an outstanding breeding history. Due to their slim hips, the reproduction process asks for artificial insemination and c-sections instead of natural delivery. It is more costly than regular breeding expenses such as incidentals, prenatal care, and puppy vaccinations.
 
 A cheaper choice is adopting a **French bulldog** from a shelter or rescue organization. The fee ranges from $350 to $550, covering registrations and vaccinations. However, you can’t be sure whether your animal is purebred or not.
