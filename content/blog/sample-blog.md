@@ -18,3 +18,7 @@ align = "right"
 
 +++
 ![](/images/sola_4.jpg)
+
+**This is blog**
+
+blog content
