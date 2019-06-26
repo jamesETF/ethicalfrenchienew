@@ -4,7 +4,6 @@ date = "2018-07-20T00:00:00-04:00"
 description = "Wonder What Human Food Frenchies Can Eat? Read more to learn. All these foods are highly encouraged and almost obligatory if you are currently feeding plain commercial kibble. "
 display_categories = true
 display_date = true
-draft = true
 fragment = "Blog"
 summary = "French Bulldog, just like humans enjoy fresh, organic whole foods, but at the end of the day it's all about moderation. Read our blog post to learn What Human Food Frenchies Can Eat."
 title = "Wonder What Human Food Frenchies Can Eat? Prepare To Wow"
