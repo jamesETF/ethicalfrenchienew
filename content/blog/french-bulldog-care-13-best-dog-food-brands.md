@@ -5,7 +5,6 @@ date = "2019-06-26T00:00:00-04:00"
 description = "These 13 Best Dog Food Brands should be a priority factor in your French Bulldog Care routine. Remember a healthy Frenchie is a happy Frenchie."
 display_categories = true
 display_date = true
-draft = true
 fragment = "blog"
 summary = "Picking the right food is one of the most important steps to French Bulldog Care. Here are the 13 Best Dog Food Brands we personally use and swear by."
 title = "French Bulldog Care - 13 Best Dog Food Brands"
