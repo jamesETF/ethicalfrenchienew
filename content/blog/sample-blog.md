@@ -10,7 +10,7 @@ fragment = "blog"
 summary = "Blog Summary"
 title = "Sample Blog"
 title_align = "center"
-weight = nil
+weight = 100
 [asset]
 image = "/images/hero-2.jpg"
 [sidebar]
