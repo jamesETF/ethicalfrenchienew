@@ -5,7 +5,6 @@ date = "2019-06-26T00:00:00-04:00"
 description = "What is a blue French bulldog and How to care for them. Thinking about getting a new family member but aren't familiar with the breed? This blog will cover everything you need to know."
 display_categories = true
 display_date = true
-draft = true
 fragment = "blog"
 summary = "What is a blue French Bulldog and how to care for them? What do i need to know before getting a blue French Bulldog? Continue reading to learn more. "
 title = "What is a blue French bulldog and How to care for them"
