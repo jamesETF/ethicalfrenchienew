@@ -11,7 +11,7 @@ title = "French bulldog health risks – Welfare problems behind the cute face"
 [asset]
 image = "/images/White-French-Bulldog.jpg"
 [sidebar]
-align = "left"
+align = "right"
 
 +++
 The French Bulldog has its name on the list of the most popular dog breeds across the UK. But the interest of owning one Frenchies doesn’t come solely with the high initial cost whatsoever; the **French bulldog health risks** are going to add up the after-expenses.
