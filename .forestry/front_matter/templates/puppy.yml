@@ -1,0 +1,23 @@
+---
+label: Puppy
+hide_body: true
+fields:
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: text
+  name: item_url
+  label: item_url
+- type: field_group
+  name: asset
+  label: asset
+  fields:
+  - type: file
+    name: image
+    label: image
