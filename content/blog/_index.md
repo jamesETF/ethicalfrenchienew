@@ -8,7 +8,7 @@ fragment = "blog"
 summary = "French Bulldog, just like humans enjoy fresh, organic whole foods, but at the end of the day it's all about moderation. Read our blog post to learn What Human Food Frenchies Can Eat."
 title = "Wonder What Human Food Frenchies Can Eat? Prepare To Wow"
 [asset]
-image = "/images/Eggs-in-cardboard-box.jpg"
+image = "/images/fresh-raw-eggs.jpg"
 [sidebar]
 align = "right"
 
@@ -19,7 +19,7 @@ The trademark appearance coupled with pleasant personality can make French Bulld
 
 ### Vegetables
 
-![Fresh Vegetables](/images/Fresh-vegetables.jpg "Fresh-vegetables")
+![Fresh spinach salad](/images/Fresh-spinach-salad.jpg "Fresh-spinach-salad")
 
 Vegetables make a part of [a healthy diet for French Bulldogs](https://frenchbulldog.nyc/the-best-dry-food-for-french-bulldogs-editors-updated-list/) due to their low contents of fat and calories. Right as they are, you need to be choosy in the type of vegetables to feed your canine.
 
@@ -51,7 +51,7 @@ Watch out for legumes like beans and peas as well as cooked potatoes. There are 
 
 ### Fish
 
-![Grilled Fish Plate](/images/sardines-1489630_640.jpg "Grilled-fish-plate")
+![Fish](/images/fish.jpg "Fish")
 
 The smell of fish is attractive to dogs. Good fats and amino acids in fish supply a significant health boost for canines, notably salmon and sardines. Salmon is rich in vitamins and protein, while sardines provide extra calcium with digestible and soft bones. They are an ideal alternative to chicken and other everyday ingredients which may provoke allergic reactions.
 
@@ -95,7 +95,7 @@ Peanut butter contains high-quality protein along with fats, vitamins B, and E t
 
 ### Eggs
 
-![Eggs in cardboard box](/images/Eggs-in-cardboard-box.jpg "Eggs-in-cardboard-box")
+![Fresh Raw Eggs](/images/fresh-raw-eggs.jpg "Fresh-raw-egs")
 
 Eggs are an excellent source of protein, amino acids, and fatty acids. Boiled or cooked eggs are dietary supplements or appealing treats for dogs in the sense that they can deal with upset stomachs.
 
@@ -118,6 +118,8 @@ Honey is also famous for its effect of soothing sore throats and stomachs. Howev
 ### Popcorn
 
 Interestingly, popcorn hardly triggers adverse reactions from French Bulldogs. A moderate amount of unbuttered, unsalted, and plain air-popped popcorn will be okay. Thus, next time, you can keep your pup beside and share with him some snacks while enjoying a movie.
+
+![Popcorn in bowl](/images/popcorn-in-bowl.jpg "Popcorn-in-bowl")
 
 Along with protein and iron, popcorn even contains thiamine and riboflavin, which contributes to healthy eye development and smooth digestion.
 
