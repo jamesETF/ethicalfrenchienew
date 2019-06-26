@@ -9,6 +9,8 @@ summary = "French Bulldog, just like humans enjoy fresh, organic whole foods, bu
 title = "Wonder What Human Food Frenchies Can Eat? Prepare To Wow"
 [asset]
 image = "/images/Eggs-in-cardboard-box.jpg"
+[sidebar]
+align = "right"
 
 +++
 The trademark appearance coupled with pleasant personality can make French Bulldogs win the heart of dog lovers easily. Typically less than 28 pounds, this breed runs a high risk of obesity and food allergies. Therefore, a healthy and strictly controlled diet is crucial to their growth. Some human foods may be suitable for our health but can be harmful or our furry friends. This article will update you on **what human food Frenchies can eat**.
