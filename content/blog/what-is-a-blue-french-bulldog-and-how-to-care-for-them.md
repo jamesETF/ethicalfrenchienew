@@ -9,7 +9,7 @@ fragment = "blog"
 summary = "What is a blue French Bulldog and how to care for them? What do i need to know before getting a blue French Bulldog? Continue reading to learn more. "
 title = "What is a blue French bulldog and How to care for them"
 [asset]
-image = "/images/blue-french-bulldog.jpg"
+image = "/images/Blue-Frenchie-pup.jpg"
 [sidebar]
 align = "right"
 
@@ -38,7 +38,7 @@ That said, if you are thinking of getting a blue Frenchie, look for a reputable 
 
 Whatever comes to debate, it’s hard to deny the uniqueness of a blue French pup. If we exclude the exceptional coat color, a blue Frenchie has all the characteristic any French bulldog has.
 
-![Blue French Bulldog Puppy](/images/Blue-French-Bulldog-Puppy.jpg "Blue-french-bulldog-puppy")
+![Blue French Bulldog Puppy](/images/Blue-French-Bulldog-Puppy-1.jpg "Blue-french-bulldog-puppy")
 
 They have a small but robust build that weighs about 28 lbs and stands from 11 to 15 inch tall. Other than that, their erected bat-like ears and a short muzzle are similar to all dogs of this breed.
 
@@ -92,7 +92,7 @@ Many say that Frenchies will act out if they recognize your love is toward anoth
 
 ## What matters most?
 
-![Blue French Bulldog](/images/blue-french-bulldog.jpg "Blue-French-Bulldog")
+![](/images/Blue-Frenchie-pup.jpg)
 
 We can’t ignore the fact that [Frenchies are expensive](https://frenchbulldog.nyc/why-french-bulldogs-are-expensive-before-adoption/), the breed with an exclusive blue uniform even costs more than many can afford.
 
