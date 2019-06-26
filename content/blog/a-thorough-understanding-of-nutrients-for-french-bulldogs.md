@@ -22,7 +22,7 @@ So, let’s sort out the essential **nutrients for French bulldogs** you should 
 
 ## Vital nutrients for French Bulldogs
 
-     ![vital nutrients](/images/vital-nutrients.jpg "vital-nutrients")
+ ![](/images/vital-nutrients.jpg)
 
 ### Protein
 
@@ -34,7 +34,7 @@ Soybean meal is known as a by-product created during the production of soybean o
 
 Meat used in Frenchie food should be the clean flesh of slaughtered lamb, turkey, chicken, or cattle.
 
-         ![Protein Raw](/images/protein-raw.jpg "protein-raw")
+![](/images/protein-raw.jpg)
 
 Sometimes, there are striated skeletal muscle, diaphragm, esophagus, tongue, and heart attached in that flesh. Hair, horns, hooves, teeth, and feathers will get completely removed so as not to mix with the fresh meat.
 
@@ -60,7 +60,7 @@ Minerals are helpful in muscle contractions and nerve transmissions besides prov
 
 Fats are another necessary substance for dogs to take in through eating food. Once digested, they can provide bodies with necessary fat subunits, omega-3, and omega-6 fatty acids.
 
-         ![Fat Protein](/images/fat-protein.jpg "Fat-protein")
+![](/images/fat-protein.jpg)
 
 Numerous studies have indicated that omega-3 fatty acids play a crucial role in decreasing inflammation and blood clotting while omega-6 fatty acids serve to maintain proper membrane structure as well as enhance Frenchie’s coat and skin. Fats are the primary source of stored energy found in the body, which can provide a two-fold amount of energy compared to proteins or carbohydrates.
 
