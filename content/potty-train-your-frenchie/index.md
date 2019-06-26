@@ -9,7 +9,7 @@ description = "Here at Ethical Frenchie we start the potty training process earl
 author = "James Harrison"
 
 #subtitle = ""
-fragment = "blog"
+fragment = "old-blog"
 weight = 100
 #background = ""
 title_align = "left"
