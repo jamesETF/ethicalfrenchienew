@@ -2,11 +2,11 @@
 author = "James Harrison"
 categories = ["French Bulldog Health", "French Bulldog Food"]
 date = "2019-06-26T00:00:00-04:00"
-description = ""
+description = "Do you have A Thorough Understanding of Nutrients for French Bulldogs ? Continue reading and inform yourself about what your Frenchies food should consist of. "
 display_categories = true
 display_date = true
 fragment = "blog"
-summary = ""
+summary = "It's all about a balanced diet. Click to read more on what are the do's and don't in the Frenchie diet."
 title = "A Thorough Understanding of Nutrients for French Bulldogs"
 [asset]
 image = "/images/nutrients-french-bulldog.jpg"
