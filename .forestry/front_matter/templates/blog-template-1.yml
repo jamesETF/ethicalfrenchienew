@@ -1,0 +1,51 @@
+---
+label: blog-template-1
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: summary
+  label: summary
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: text
+  name: fragment
+  label: fragment
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title_align
+  label: title_align
+- type: boolean
+  name: display_date
+  label: display_date
+- type: boolean
+  name: display_categories
+  label: display_categories
+- type: field_group
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: text
+    name: align
+    label: align
+- type: field_group
+  name: asset
+  label: asset
+  fields:
+  - type: file
+    name: image
+    label: image
