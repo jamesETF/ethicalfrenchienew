@@ -5,7 +5,6 @@ date = "2019-06-19T00:00:00-04:00"
 description = "The Rise of French Bulldog Theft is becoming a big issue. In this blog post you will learn about the reasons thieves target French Bulldogs and best steps to protect yourself and your dog."
 display_categories = true
 display_date = true
-draft = true
 fragment = "Blog"
 summary = "By reading this blog post you will walk away with knowledge on what precautions to take to protect yourself and your French Bulldog."
 title = "The Rise of French Bulldog Theft: What You Need to Know and Solve"
