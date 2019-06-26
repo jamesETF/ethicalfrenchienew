@@ -50,4 +50,5 @@ fields:
     name: image
     label: image
 pages:
+- content/blog/sample-blog-2/sample-blog-2.md
 - content/blog/sample-blog.md
