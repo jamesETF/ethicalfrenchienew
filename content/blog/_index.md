@@ -15,11 +15,11 @@ align = "right"
 +++
 The trademark appearance coupled with pleasant personality can make French Bulldogs win the heart of dog lovers easily. Typically less than 28 pounds, this breed runs a high risk of obesity and food allergies. Therefore, a healthy and strictly controlled diet is crucial to their growth. Some human foods may be suitable for our health but can be harmful or our furry friends. This article will update you on **what human food Frenchies can eat**.
 
-## What Human Food Can Frenchies Eat?
+# What Human Food Can Frenchies Eat?
 
-### Vegetables
+## Vegetables
 
-![Fresh spinach salad](/images/Fresh-spinach-salad.jpg "Fresh-spinach-salad")
+![Fresh Green Vegetables](/images/fresh-green-vegetables.jpg "Fresh-green-vegetables")
 
 Vegetables make a part of [a healthy diet for French Bulldogs](https://frenchbulldog.nyc/the-best-dry-food-for-french-bulldogs-editors-updated-list/) due to their low contents of fat and calories. Right as they are, you need to be choosy in the type of vegetables to feed your canine.
 
@@ -33,7 +33,7 @@ Avoid feeding French Bulldogs on vegetables in the allium family like shallots, 
 
 Steamed corn is okay, but never serve it with the cob left. Your pup can get choked on corn cob at any time. Since symptoms of allergy to corn are present in several dogs, be alert. Keep the amount of corn to a minimum once you detect signs of tummy upset or itchy skin in your furry friend.
 
-### Fruits
+## Fruits
 
 Regarding **what human food Frenchies can eat**, fruits shouldn’t be left out. Like vegetables, there are various healthy options of fruits to feed French pups as a supplement to their diet. They will fall in love with sliced pieces of cantaloupe, apple, seedless watermelon, honeydew, and banana. With convenient bite-sized bits, blueberries and raspberries can make a ready-made treat that is appealing to dogs’ taste.
 
@@ -49,7 +49,7 @@ Refrain from giving him grapes. Though they are fit for dog mouths, they are one
 
 Watch out for legumes like beans and peas as well as cooked potatoes. There are several reports that a high intake of them can lead to numerous health issues.
 
-### Fish
+## Fish
 
 ![Fish](/images/fish.jpg "Fish")
 
@@ -59,7 +59,7 @@ Other shorter-lived species are edible to dogs, including ocean whitefish, herri
 
 Don’t give undercooked or uncooked fish to your furry friend. Raw fish is likely to contain harmful bacteria like listeria and salmonella. Overly consumption of fish isn’t sensible; instead, it should be confined to twice a week at most. Slowly introduce fish to dog meals to see whether that certain fish upsets the gastro-intestines.
 
-### Turkey
+## Turkey
 
 ![Raw Turkey Meat](/images/Raw-turkey-meat.jpg "Raw-turkey-meat")
 
@@ -69,7 +69,7 @@ It isn’t toxic to canines as long as being served without garlic and seasoning
 
 Don’t forget to remove bones from the meat. They are brittle enough to harm dog mouth and tongue, even resulting in rectal bleeding or blockages.
 
-### Shrimp
+## Shrimp
 
 Besides appealing taste, shrimps are abundant in essential nutrients like niacin, vitamin B12, anti-oxidants, and phosphorus. They all play a vital role in the metabolic process, blood circulation, energy production, anti-brain aging, as well as gastrointestinal health promotion. Meanwhile, the low content of calories, fat, and carbohydrates makes shrimp an excellent option for French Bulldogs’ diet.
 
@@ -77,7 +77,7 @@ However, moderation is the key. Cholesterol is abundant in shrimps, so too much 
 
 Like fish, shrimp isn’t fit for serving raw. Cooking can prevent the penetration of harmful pathogens into your Frenchie. Remember to obliterate the shell, which poses a choking hazard. Steamed shrimp would be the best while excessive oils and fats in breaded or fried shrimps may be harmful.
 
-### Dairy Products
+## Dairy Products
 
 As long as your pet isn’t allergic to lactose, cheese can make a great treat. However, given its high-fat content, never feed your pet on cheese too much, thereby minimizing chances of weight gain and obesity. Pay attention to toxic ingredients in some cheeses like herbs, onions, chives, and garlic.
 
@@ -85,15 +85,7 @@ You’d better go for low-fat options like cottage cheese, mozzarella, or soft g
 
 Peanut butter contains high-quality protein along with fats, vitamins B, and E that are good for heart health. Homemade and unsalted peanut butter would be a safe choice since the levels of sodium and sugar remain low.
 
-### Dairy Products
-
-As long as your pet isn’t allergic to lactose, cheese can make a great treat. However, given its high-fat content, never feed your pet on cheese too much, thereby minimizing chances of weight gain and obesity. Pay attention to toxic ingredients in some cheeses like herbs, onions, chives, and garlic.
-
-You’d better go for low-fat options like cottage cheese, mozzarella, or soft goat cheese. Cottage cheese has the lowest fat and lactose of all kinds, meaning it has the least possibility of intestinal upset and obesity.
-
-Peanut butter contains high-quality protein along with fats, vitamins B, and E that are good for heart health. Homemade and unsalted peanut butter would be a safe choice since the levels of sodium and sugar remain low.
-
-### Eggs
+## Eggs
 
 ![Fresh Raw Eggs](/images/fresh-raw-eggs.jpg "Fresh-raw-egs")
 
@@ -103,19 +95,19 @@ Raw eggs are risky for dogs’ health. They can trigger the contraction of Salmo
 
 Strictly follow the instruction of your veterinarian about the proper number of eggs per day to feed your pet.
 
-### Yogurt
+## Yogurt
 
 Plain yogurt can add something new to the daily diet of dogs as a delicious snack. However, not all breeds can digest it.
 
 Yogurt contains active bacteria that serve to promote the digestive system. Don’t buy the products enriched with sugars and artificial sweeteners. Instead, let’s go for yogurt full of live cultures such as Greek-style or plain one given their lower levels of lactose.
 
-### Honey
+## Honey
 
 Honey is full of nutrients such as vitamins A, B, C, D, E, K, potassium, magnesium, calcium, copper, and antioxidants. A small amount of honey can deal with seasonal allergies since it helps build up immunity to allergens by introducing pollen.
 
 Honey is also famous for its effect of soothing sore throats and stomachs. However, don’t forget to brush your pet’s teeth after feeding him on honey, or else the sugar will cause tooth decay. You shouldn’t give raw honey to puppies since their immune system is vulnerable to the presence of botulism spores. This is also true for obese or diabetic dogs.
 
-### Popcorn
+## Popcorn
 
 Interestingly, popcorn hardly triggers adverse reactions from French Bulldogs. A moderate amount of unbuttered, unsalted, and plain air-popped popcorn will be okay. Thus, next time, you can keep your pup beside and share with him some snacks while enjoying a movie.
 
@@ -123,14 +115,14 @@ Interestingly, popcorn hardly triggers adverse reactions from French Bulldogs. A
 
 Along with protein and iron, popcorn even contains thiamine and riboflavin, which contributes to healthy eye development and smooth digestion.
 
-### Wheat And Grains
+## Wheat and Grains
 
 Some dogs are allergic to wheat and other grains, but if this isn’t the case with your pet, they are excellent sources of fiber, fatty acids, and proteins.
 
 You may want to know: [Food Frenchies can not eat](https://www.petcarerx.com/article/foods-to-avoid-for-bulldogs/297)
 
-## Final Thoughts
+# Final Thoughts
 
 Just like human beings, French Bulldogs are an omnivore, so the list of what human food Frenchies can eat are endless. Always remember to start with small amounts to let their digestive system familiarize with new foods and stop if they get sick.
 
-So, what human food can Frenchies eat? You’ve got the answer.
+So, what human food can Frenchies eat? You got the answer.
