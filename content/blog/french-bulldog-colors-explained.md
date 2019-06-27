@@ -5,7 +5,6 @@ date = "2019-06-26T00:00:00-04:00"
 description = "Learn more about French Bulldog Colors and what are the difference between standard and exotic French Bulldog Colors."
 display_categories = true
 display_date = true
-draft = true
 fragment = "blog"
 summary = "Learn more about French Bulldog Colors and what are the difference between standard and exotic French Bulldog Colors."
 title = "French Bulldog Colors Explained"
