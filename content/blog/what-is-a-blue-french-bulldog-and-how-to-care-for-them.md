@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "What is a blue French Bulldog and how to care for them? What do i need to know before getting a blue French Bulldog? Continue reading to learn more. "
 title = "What is a blue French bulldog and How to care for them"
+page_type = "blog"
 [asset]
 image = "/images/Blue-Frenchie-pup.jpg"
 [sidebar]

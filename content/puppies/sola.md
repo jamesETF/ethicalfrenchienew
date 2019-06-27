@@ -8,7 +8,7 @@ title = "Sola"
 title_align = "left"
 
 description = ""
-
+page_type = "puppy"
 summary = """
 I'm Sola, Electras big sister.
 """

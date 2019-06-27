@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "Learn more about French Bulldog Colors and what are the difference between standard and exotic French Bulldog Colors."
 title = "French Bulldog Colors Explained"
+page_type = "blog"
 [asset]
 image = "/images/french-bulldog-colors.jpg"
 [sidebar]

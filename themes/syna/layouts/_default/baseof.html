@@ -5,6 +5,8 @@
   {{- partial "head.html" . }}
   {{- $bg := .Site.Params.style.background | default "secondary" -}}
 
+  <meta content={{.Params.page_type}}>
+
   <body class="{{ printf "bg-%s" $bg }}">
     {{ partial "helpers/fragments-renderer.html" (dict "page_scratch" .Scratch) -}}
 

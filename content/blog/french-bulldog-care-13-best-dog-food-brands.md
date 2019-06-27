@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "Picking the right food is one of the most important steps to French Bulldog Care. Here are the 13 Best Dog Food Brands we personally use and swear by."
 title = "French Bulldog Care - 13 Best Dog Food Brands"
+page_type = "blog"
 [asset]
 image = "/images/French-bulldog-dog-food.jpg"
 [sidebar]

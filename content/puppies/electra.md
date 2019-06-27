@@ -5,6 +5,7 @@ title = "Electra"
 title_align = "left"
 weight = 102
 description = ""
+page_type = "puppy"
 [asset]
 image = "electra.jpg"
 text = "Photo of Electra"

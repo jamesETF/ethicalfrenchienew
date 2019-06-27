@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "French Bulldogs - one of the most popular, but also quite expensive breeds. Click to learn the reason behind the high price tag."
 title = "Why French Bulldogs Are Expensive Before Adoption  "
+page_type = "blog"
 [asset]
 image = "/images/Why-are-French-bulldogs-expensive.jpg"
 [sidebar]

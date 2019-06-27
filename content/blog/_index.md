@@ -7,6 +7,7 @@ display_date = true
 fragment = "blog"
 summary = "French Bulldog, just like humans enjoy fresh, organic whole foods, but at the end of the day it's all about moderation. Read our blog post to learn What Human Food Frenchies Can Eat."
 title = "Wonder What Human Food Frenchies Can Eat? Prepare To Wow"
+page_type = "blog-list"
 [asset]
 image = "/images/fresh-raw-eggs.jpg"
 [sidebar]

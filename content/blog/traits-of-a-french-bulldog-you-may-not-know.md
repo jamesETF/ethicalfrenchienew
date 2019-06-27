@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "It’s better to know the traits of a French bulldog before adopting one. Learn how the characteristics of Frenchies make them one of the best dogs to own."
 title = "Traits of a French bulldog you may not know"
+page_type = "blog"
 [asset]
 image = "/images/Stud-fee-French-Bulldogs.jpg"
 [sidebar]

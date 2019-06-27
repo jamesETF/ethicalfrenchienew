@@ -12,7 +12,7 @@ Diamond is a Merle French Bulldog Puppy available for the right family, Currentl
 """
 
 description = ""
-
+page_type = "puppy"
 [asset]
   image = "diamond.jpg"
 +++

@@ -11,6 +11,7 @@ phone = "+1 212 739-0182"
 post_url = "https://portal.ethicalfrenchie.com/forms/wtl/652b9ea9248e0ab4cb638e06c9e95542"
 subtitle = "Get in touch with Ethical Frenchie. Come meet us in person or book an appointment."
 title = "Contact Us"
+page_type = "contact-us"
 weight = 110
 [fields.description]
 error = "Please enter your question"

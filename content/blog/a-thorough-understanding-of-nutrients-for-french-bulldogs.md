@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "It's all about a balanced diet. Click to read more on what are the do's and don't in the Frenchie diet."
 title = "A Thorough Understanding of Nutrients for French Bulldogs"
+page_type = "blog"
 [asset]
 image = "/images/nutrients-french-bulldog.jpg"
 [sidebar]

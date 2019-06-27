@@ -12,7 +12,7 @@ My mom tells me I have the perfect structure and composition – I will grow up 
 """
 
 description = ""
-
+page_type = "puppy"
 [asset]
   image = "ego.jpg"
 +++

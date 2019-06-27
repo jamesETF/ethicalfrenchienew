@@ -8,6 +8,7 @@ display_date = true
 fragment = "blog"
 summary = "Every purebred dog comes with some health risks. If you are trying to learn more about French Bulldog health risks keep on reading. We will cover some of the most basic condition that occur in the breed and are for the most, unpredictable."
 title = "French bulldog health risks – Welfare problems behind the cute face"
+page_type = "blog"
 [asset]
 image = "/images/White-French-Bulldog-1.jpg"
 [sidebar]
