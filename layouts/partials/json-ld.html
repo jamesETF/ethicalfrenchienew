@@ -3,9 +3,9 @@
 {
     "@context":"http://schema.org",
     "@type":"Organization",
-    "name":"{{ .Site.Copyright }}",
+    "name":"Ethical Frenchie LLC",
     "url":"https://ethicalfrenchie.com/",
-    "logo":"https://ethicalfrenchie.com/static/images/logo.png",
+    "logo":"https://ethicalfrenchie.com/images/logo.png",
     "sameAs":[
         "https://www.facebook.com/ethicalfrenchie",
         "https://www.instagram.com/ethicalfrenchie"
@@ -19,7 +19,29 @@
     ]
 }
 </script>
-
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"WebSite",
+    "url":"https://ethicalfrenchie.com/"
+    "name":"Ethical Frenchie",
+    "alternateName":"French Bulldog Breeder",
+    "headline":"Ethical Frenchie | French Bulldog Breeder | New York City",
+    "image":"https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.png",
+    "author": 'James Harrison',
+    "description":"Small French Bulldog Breeder with a focus on socialization, health and temperament. Call 212 739 0182 to meet our adorable French Bulldog Puppies for sale.",
+    "keywords":[
+        "French Bulldog Breeder",
+        "French Bulldog Puppies for sale New York",
+        "French Bulldog",
+        "Bulldog",
+        "Bulldog Breeder",
+        "Bulldog Puppies",
+        "French Bulldog New York",
+        "French Bulldog Puppies"
+    ]
+}
+</script>
 {{ else if eq .Params.page_type "about-us" }}
     <meta content="this is about">
 {{ else if eq .Params.page_type "puppy-list" }}
