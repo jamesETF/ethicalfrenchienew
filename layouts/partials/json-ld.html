@@ -1,0 +1,35 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"Organization",
+    "name":"{{ .Site.Copyright }}",
+    "url":"{{ .Site.BaseURL | safeJS }}",
+    "logo":"{{ .Site.BaseURL | safeJS }}static/images/logo.png",
+    "sameAs":[
+        "https://www.linkedin.com/ethicalfrenchie",
+        "https://www.facebook.com/ethicalfrenchie"
+    ],
+    "contactPoint":[
+        {
+            "@type":"ContactPoint",
+            "telephone":"+1.212.739.0182",
+            "contactType":"customer support"
+        }
+    ]
+}
+</script>
+
+{{ else if eq .Params.page_type "about-us" }}
+    <meta content="this is about">
+{{ else if eq .Params.page_type "puppy-list" }}
+
+{{ else if eq .Params.page_type "puppy" }}
+
+{{ else if eq .Params.page_type "blog-list" }}
+
+{{ else if eq .Params.page_type "blog" }}
+
+{{ else if eq .Params.page_type "contact-us" }}
+<meta content="this is contact">
+{{ end }}
