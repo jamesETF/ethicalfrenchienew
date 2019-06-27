@@ -24,3 +24,9 @@ fields:
   - type: file
     name: image
     label: image
+- name: page_type
+  type: text
+  config:
+    required: false
+  label: Page Type
+  default: puppy
