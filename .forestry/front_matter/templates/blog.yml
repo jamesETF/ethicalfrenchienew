@@ -44,6 +44,7 @@ fields:
     name: image
     label: image
 pages:
+- content/blog/french-bulldog-colors-explained.md
 - content/blog/traits-of-a-french-bulldog-you-may-not-know.md
 - content/blog/why-french-bulldogs-are-expensive-before-adoption.md
 - content/blog/french-bulldog-health-risks-welfare-problems-behind-the-cute-face.md
