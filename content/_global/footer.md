@@ -7,4 +7,4 @@ weight = 1200
 +++
 #### Ethical Frenchie
 
-French Bulldog Breeder with an emphasis on health, top quality care and socialization.
+French Bulldog Breeder in New York with an emphasis on health, top quality care, and socialization.
