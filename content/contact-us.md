@@ -1,5 +1,5 @@
 +++
-description = "Before submitting our contact form* ~ If you have questions regarding our french buldog puppy prices, availability. Try using our chat widget and view our "puppies" page"
+description = "Before submitting our contact form* ~ If you have questions regarding our french buldog puppy prices, availability. Try using our chat widget and view our puppies page"
 address = "17 State Street, 40th floor, New York, NY 10004"
 background = "light"
 button_text = "Submit"
