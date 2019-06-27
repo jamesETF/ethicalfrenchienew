@@ -27,6 +27,6 @@ fields:
 - name: page_type
   type: text
   config:
-    required: false
+    required: true
   label: Page Type
   default: puppy
