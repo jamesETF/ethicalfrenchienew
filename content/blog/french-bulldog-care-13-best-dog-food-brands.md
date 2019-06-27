@@ -1,8 +1,8 @@
-+++
+﻿+++
 author = "James Harrison"
 categories = []
 date = "2019-06-26T00:00:00-04:00"
-description = "These 13 Best Dog Food Brands should be a priority factor in your French Bulldog Care routine. Remember a healthy Frenchie is a happy Frenchie."
+description = "These 13 best foods for your french bulldog, and brands that should be a priority factor in your French Bulldog Care routine. Remember a healthy Frenchie is a happy Frenchie."
 display_categories = true
 display_date = true
 fragment = "blog"

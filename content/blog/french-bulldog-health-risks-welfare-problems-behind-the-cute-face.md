@@ -1,4 +1,4 @@
-+++
+﻿+++
 author = "James Harrison"
 categories = ["French Bulldog Health"]
 date = "2019-06-20T00:00:00-04:00"
