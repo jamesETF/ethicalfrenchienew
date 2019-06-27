@@ -57,7 +57,7 @@
     "@type": "BlogPosting",
     "headline": {{.Params.title}},
     "image": {{ if eq .Params.page_type "blog" }}{{ printf "%s" .Params.asset.image | absURL }}{{ else }}{{ printf "/images%s" .Params.asset.image | absURL }}{{ end }},
-    "keywords": {{ .Params.keywords }},
+    "keywords": {{ .Params.categories }},
     "publisher": "{{ .Site.Copyright }}",
     "url": {{ .Permalink }},
     "dateCreated": {{ .Params.date }},
