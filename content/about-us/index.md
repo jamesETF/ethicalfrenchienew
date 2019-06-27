@@ -1,5 +1,5 @@
 +++
  title = "About Us"
- description = "Ethical Frenchie is the #1 French Bulldog adoption service and breeder on the East Coast."
+ description = "Ethical Frenchie is a family based French Bulldog Breeder in New York. Learn more about us and our de-centralized kennel concept."
  page_type = "about-us"
 +++
