@@ -23,12 +23,15 @@ fields:
 - type: text
   name: fragment
   label: fragment
+  default: blog
 - type: boolean
   name: display_date
   label: display_date
+  default: true
 - type: boolean
   name: display_categories
   label: display_categories
+  default: true
 - type: field_group
   name: sidebar
   label: sidebar
@@ -36,6 +39,7 @@ fields:
   - type: text
     name: align
     label: align
+    default: right
 - type: field_group
   name: asset
   label: asset
@@ -43,6 +47,12 @@ fields:
   - type: file
     name: image
     label: image
+- name: page_type
+  type: text
+  config:
+    required: false
+  label: Page Type
+  default: blog
 pages:
 - content/blog/french-bulldog-colors-explained.md
 - content/blog/traits-of-a-french-bulldog-you-may-not-know.md
