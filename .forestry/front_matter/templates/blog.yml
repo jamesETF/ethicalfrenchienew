@@ -24,6 +24,8 @@ fields:
   name: fragment
   label: fragment
   default: blog
+  config:
+    required: true
 - type: boolean
   name: display_date
   label: display_date
@@ -40,6 +42,8 @@ fields:
     name: align
     label: align
     default: right
+    config:
+      required: true
 - type: field_group
   name: asset
   label: asset
@@ -50,7 +54,7 @@ fields:
 - name: page_type
   type: text
   config:
-    required: false
+    required: true
   label: Page Type
   default: blog
 pages:
