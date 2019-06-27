@@ -58,7 +58,23 @@
     "headline": {{.Params.title}},
     "image": {{ if eq .Params.page_type "blog" }}{{ printf "%s" .Params.asset.image | absURL }}{{ else }}{{ printf "/images%s" .Params.asset.image | absURL }}{{ end }},
     "keywords": {{ .Params.categories }},
-    "publisher": "{{ .Site.Copyright }}",
+    "publisher": {
+    	"@type": "Organization",
+        "name":"Ethical Frenchie LLC",
+        "url":"https://ethicalfrenchie.com/",
+        "logo":"https://ethicalfrenchie.com/images/logo.png",
+        "sameAs":[
+            "https://www.facebook.com/ethicalfrenchie",
+            "https://www.instagram.com/ethicalfrenchie"
+        ],
+        "contactPoint":[
+            {
+                "@type":"ContactPoint",
+                "telephone":"+1.212.739.0182",
+                "contactType":"customer support"
+            }
+        ]
+    },
     "url": {{ .Permalink }},
     "dateCreated": {{ .Params.date }},
     "datePublished": {{ .Params.date }},
