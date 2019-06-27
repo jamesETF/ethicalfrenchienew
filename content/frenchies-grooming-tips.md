@@ -15,7 +15,7 @@ weight = 100
 title_align = "left"
 display_date = true
 display_categories = true
-page_type = "blog"
+page_type = "old-blog"
 [sidebar]
   align = "right"
 
