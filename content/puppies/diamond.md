@@ -1,22 +1,15 @@
 +++
+description = "Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere."
 fragment = "puppy"
-weight = 100
-#background = ""
-
-title = "Diamond"
-#subtitle = ""
-title_align = "left"
-
-summary = """
-Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere.
-"""
-
-description = ""
 page_type = "puppy"
+summary = "Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere.\n"
+title = "Diamond"
+title_align = "left"
+weight = 100
 [asset]
-  image = "diamond.jpg"
-+++
+image = "diamond.jpg"
 
++++
 We are Ethical Frenchie, thank you for your interest in one of our blue French Bulldog puppies for sale.
 
 Let’s explain our background really quick. We are a couple hobby breeder, that strives to provide health, happy puppies, that will bring joy and excitement to any family. Our live is divided between North Carolina and New York City, due to our regular job, so puppies can be picked up at both placed.
