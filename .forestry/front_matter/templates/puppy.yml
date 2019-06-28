@@ -12,14 +12,8 @@ fields:
   name: summary
   label: summary
 - type: textarea
-  name: subtitle
-  label: subtitle
-- type: textarea
   name: description
   label: description
-- type: text
-  name: item_url
-  label: item_url
 - type: field_group
   name: asset
   label: asset
