@@ -21,7 +21,7 @@
         {{- safeHTMLAttr (printf " src=\"%s\"" .url) -}}></script>
     {{- else if .file }}
       {{- $script_template := resources.Get (printf "scripts/%s" .file) -}}
-      {{- $script := $script_template | resources.Minify | resources.Fingerprint }}
+      {{- $script := $script_template | resources.Fingerprint | resources.Minify }}
       <script 
         {{- if (.async | default true) -}}
           {{- safeHTMLAttr (print " async") -}}
