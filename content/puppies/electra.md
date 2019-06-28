@@ -1,11 +1,11 @@
 +++
+description = "Meet ELECTRA! She is one of our French Bulldog puppies for sale in NY. She’s a merle blue pied French Bulldog puppy with amazing blue eyes – standard for the merle. Electra definitely makes a statement with her appearance and her awesome temperament."
 fragment = "puppy"
-summary = ""
+page_type = "puppy"
+summary = "Meet ELECTRA! She is one of our French Bulldog puppies for sale in NY. She’s a merle blue pied French Bulldog puppy with amazing blue eyes – standard for the merle. Electra definitely makes a statement with her appearance and her awesome temperament."
 title = "Electra"
 title_align = "left"
 weight = 102
-description = ""
-page_type = "puppy"
 [asset]
 image = "electra.jpg"
 text = "Photo of Electra"
