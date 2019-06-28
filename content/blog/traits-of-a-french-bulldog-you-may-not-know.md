@@ -42,7 +42,7 @@ However, the short-nose resulted by the awkward shape takes away the ability to 
 
 That said, city folks who love occasional short walks will find French bulldogs great companions.
 
-![French Bulldog Traits](https://frenchbulldog.nyc/wp-content/uploads/2019/06/traits-of-a-French-bulldog.jpg "French-bulldog-traits" =626x432)
+![French Bulldog Traits](https://frenchbulldog.nyc/wp-content/uploads/2019/06/traits-of-a-French-bulldog.jpg "French-bulldog-traits")
 
 ### Medium Built
 
