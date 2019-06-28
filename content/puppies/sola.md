@@ -1,22 +1,15 @@
 +++
+description = "Meet Sola. She’s Electras big sister. I think that everybody that met her so far, feels the same way that I do when I say, this French Bulldog puppy is extremely unique. Her structure is stocky and compact, she has the true French bulldog look, with some exotic touches. Her eyes are two different Blue colors, and look great in contract to her white coat. One of her eyes has an eyeliner look to it, which is beyond adorable. She is definitely one of a kind and very exceptional. SO if you are looking into French Bulldog puppies for adoption, you should come meet our special little girl."
 fragment = "puppy"
-weight = 103
-#background = ""
-
-title = "Sola"
-#subtitle = ""
-title_align = "left"
-
-description = ""
 page_type = "puppy"
-summary = """
-I'm Sola, Electras big sister.
-"""
-
+summary = "I'm Sola, Electras big sister.\n"
+title = "Sola"
+title_align = "left"
+weight = 103
 [asset]
-  image = "sola.jpg"
-+++
+image = "sola.jpg"
 
++++
 Meet Sola. She’s Electras big sister. I think that everybody that met her so far, feels the same way that I do when I say, this French Bulldog puppy is extremely unique. Her structure is stocky and compact, she has the true French bulldog look, with some exotic touches. Her eyes are two different Blue colors, and look great in contract to her white coat. One of her eyes has an eyeliner look to it, which is beyond adorable. She is definitely one of a kind and very exceptional. SO if you are looking into French Bulldog puppies for adoption, you should come meet our special little girl.
 
 ![Photo of sola](/images/sola_1.jpg)
