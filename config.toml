@@ -13,7 +13,7 @@ theme = "syna"
   unsafeEvents = false # Default is false. Enables ?event=type format of url events.
   social = "ethicalfrenchie"
   keywords = ["French Bulldog Breeder", "French Bulldog Puppies for sale New York"]
-  image = "https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.png"
+  image = "https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.jpg"
 
   [params.style]
     background = "#fefefe"

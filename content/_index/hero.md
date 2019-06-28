@@ -6,6 +6,6 @@ particles = true
 social = "ethicalfrenchie"
 weight = 50
 [hero]
-image = "Ethical_Frenchie_Home_Picture.png"
+image = "Ethical_Frenchie_Home_Picture.jpg"
 
 +++
