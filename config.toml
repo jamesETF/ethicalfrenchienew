@@ -5,6 +5,7 @@ languageLang = "en"
 title = "Ethical Frenchie | French Bulldog Breeder | New York City"
 themesDir = "themes"
 theme = "syna"
+enableRobotsTXT = "true"
 
 [params]
   name = "James Harisson"
