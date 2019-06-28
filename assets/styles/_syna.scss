@@ -415,8 +415,8 @@ main.puppy-list {
   }
 }
 body div#intercom-container>div.intercom-app>iframe.intercom-launcher-frame {
-  bottom: 57px!important;
+  bottom: 75px!important;
   @include media-query-max($md) {
-    bottom: 75px!important;
+    bottom: 115px!important;
   }
 }
