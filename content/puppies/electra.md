@@ -1,6 +1,6 @@
 +++
 fragment = "puppy"
-summary = false
+summary = ""
 title = "Electra"
 title_align = "left"
 weight = 102
