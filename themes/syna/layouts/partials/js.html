@@ -21,7 +21,7 @@
         {{- safeHTMLAttr (printf " src=\"%s\"" .url) -}}></script>
     {{- else if .file }}
       {{- $script_template := resources.Get (printf "scripts/%s" .file) -}}
-      {{- $script := $script_template | resources.Fingerprint | resources.Minify }}
+      {{- $script := $script_template | resources.Minify | resources.Fingerprint }}
       <script 
         {{- if (.async | default true) -}}
           {{- safeHTMLAttr (print " async") -}}
@@ -31,7 +31,7 @@
         {{- end -}}
         {{- safeHTMLAttr (printf " src=\"%s\"" ($script.RelPermalink | relLangURL)) -}}></script>
     {{- else if .script -}}
-      {{ .script | safeHTML }}
+      {{ .script | safeHTML | resources.Minify }}
     {{- end -}}
 
     {{- if .name -}}
