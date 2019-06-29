@@ -47,19 +47,23 @@ body {
       @extend %full-width;
       height: 885px;
       margin-bottom: 20px;
-      background-position: center center;
+      background-position: 35% center;
       background-attachment: fixed;
       background-size: cover;
       @include media-query-max($dsk) {
+        background-attachment: unset;
         height: 765px;
       }
       @include media-query-max($tbl) {
+        background-attachment: unset;
         height: 585px;
       }
       @include media-query-max($phn-lg) {
+        background-attachment: unset;
         height: 345px;
       }
       @include media-query-max($phn-sm) {
+        background-attachment: unset;
         height: 265px;
       }
     }
