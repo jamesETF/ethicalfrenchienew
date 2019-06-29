@@ -3,7 +3,6 @@ import $ from './helpers/jq-helpers';
 (function() {
   handleScroll()
   window.onscroll = handleScroll;
-  console.log('aaaaa')
   $('.scroll-to-top').on('click', scrollToTop);
 })();
 
