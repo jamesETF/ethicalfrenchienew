@@ -42,6 +42,43 @@
     ]
 }
 </script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+	"@graph": [
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Home",
+            "url": "https://ethicalfrenchie.com/"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "About Us",
+            "url": "https://ethicalfrenchie.com/about-us"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Puppies",
+            "url": "https://ethicalfrenchie.com/puppies/"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Our Blog",
+            "url": "https://ethicalfrenchie.com/blog/"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Contact",
+            "url": "https://ethicalfrenchie.com/contact-us/"
+        }
+    ]
+}
+</script>
 {{ else if eq .Params.page_type "about-us" }}
     <meta content="this is about">
 {{ else if eq .Params.page_type "puppy-list" }}
