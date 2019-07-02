@@ -7,7 +7,7 @@ title = "Electra"
 title_align = "left"
 weight = 102
 [asset]
-image = "electra.jpg"
+image = "/images/electra.jpg"
 text = "Photo of Electra"
 
 +++
