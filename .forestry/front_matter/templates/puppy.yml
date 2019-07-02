@@ -27,3 +27,19 @@ fields:
     required: true
   label: Page Type
   default: puppy
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  default: James Harrison
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
+  default: now
