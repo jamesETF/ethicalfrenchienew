@@ -245,7 +245,16 @@
 }
 </script>
 {{ else if eq .Params.page_type "about-us" }}
-    <meta content="this is about">
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "AboutPage",
+    "description":"Ethical Frenchie is a family based French Bulldog Breeder in New York. Learn more about us and our de-centralized kennel concept.",
+    "image":"https://ethicalfrenchie.com/images/logo.png",
+    "name":"About Us",
+    "url":"https://ethicalfrenchie.com/about-us/"
+}
+</script>
 {{ else if eq .Params.page_type "puppy-list" }}
 
 {{ else if eq .Params.page_type "puppy" }}
