@@ -288,6 +288,9 @@
     "dateCreated": {{ .Params.date }},
     "datePublished": {{ .Params.date }},
     "dateModified": {{ .Params.date }},
+    "mainEntityOfPage": {
+        "@type": "WebPage"
+    },
     "articleBody": {{ .Content }}
 }
 </script>
@@ -333,6 +336,9 @@
     "author": {
         "@type": "Person",
         "name": {{ .Params.author }}
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage"
     },
     "articleBody": {{ .Content }}
 }
