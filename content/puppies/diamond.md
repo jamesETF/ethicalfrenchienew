@@ -7,7 +7,7 @@ title = "Diamond"
 title_align = "left"
 weight = 100
 [asset]
-image = "diamond.jpg"
+image = "/images/diamond.jpg"
 
 +++
 We are Ethical Frenchie, thank you for your interest in one of our blue French Bulldog puppies for sale.
