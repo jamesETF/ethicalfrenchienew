@@ -7,7 +7,7 @@ title = "Ego"
 title_align = "left"
 weight = 101
 [asset]
-image = "ego.jpg"
+image = "/images/ego.jpg"
 
 +++
 ### Personality
