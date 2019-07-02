@@ -42,10 +42,14 @@
     ]
 }
 </script>
-<script type="application/ld+json">
+
+<script type='application/ld+json'>
 {
-    "@context": "https://schema.org",
-	"@graph": [
+    "@context": "http://schema.org/",
+    "@type": "WPHeader",
+    "@id":"#nav",
+    "cssSelector": ".navbar",
+    "@graph": [
         {
             "@context": "https://schema.org",
             "@type":"SiteNavigationElement",
@@ -152,6 +156,29 @@
             "description": "Meet Sola. She’s Electras big sister. I think that everybody that met her so far, feels the same way that I do when I say, this French Bulldog puppy is extremely unique. Her structure is stocky and compact, she has the true French bulldog look, with some exotic touches. Her eyes are two different Blue colors, and look great in contract to her white coat. One of her eyes has an eyeliner look to it, which is beyond adorable. She is definitely one of a kind and very exceptional. SO if you are looking into French Bulldog puppies for adoption, you should come meet our special little girl."
         }
     ]
+}
+</script>
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org/",
+    "@type": "WPFooter",
+    "@id":"#footer",
+    "cssSelector": "#footer",
+    "@graph": [
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Connect with us on Facebook",
+            "url": "https://www.facebook.com/ethicalfrenchie/"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type":"SiteNavigationElement",
+            "name": "Connect with us on Instagram",
+            "url": "https://www.instagram.com/ethicalfrenchie/"
+        }
+    ],
+    "description": "French Bulldog Breeder in New York with an emphasis on health, top quality care, and socialization."
 }
 </script>
 {{ else if eq .Params.page_type "about-us" }}
