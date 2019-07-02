@@ -1,4 +1,6 @@
 +++
+author = "James Harrison"
+date = "2019-07-01T17:00:00-04:00"
 description = "Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere."
 fragment = "puppy"
 page_type = "puppy"
