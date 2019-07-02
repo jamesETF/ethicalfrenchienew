@@ -254,7 +254,10 @@
     "@context": "https://schema.org", 
     "@type": "BlogPosting",
     "headline": {{.Params.title}},
-    "image": {{ printf "%s" .Params.asset.image | absURL }},
+    "image": {
+        "@type": "ImageObject",
+        "url": {{ printf "%s" .Params.asset.image | absURL }}
+    },
     "publisher": {
         "@type": "Organization",
         "name":"Ethical Frenchie LLC",
@@ -293,7 +296,10 @@
     "@context": "https://schema.org", 
     "@type": "BlogPosting",
     "headline": {{.Params.title}},
-    "image": {{ if eq .Params.page_type "blog" }}{{ printf "%s" .Params.asset.image | absURL }}{{ else }}{{ printf "/images%s" .Params.asset.image | absURL }}{{ end }},
+    "image": {
+        "@type": "ImageObject",
+        "url": {{ if eq .Params.page_type "blog" }}{{ printf "%s" .Params.asset.image | absURL }}{{ else }}{{ printf "/images%s" .Params.asset.image | absURL }}{{ end }}
+    },
     "keywords": {{ .Params.categories }},
     "publisher": {
     	"@type": "Organization",
