@@ -249,7 +249,35 @@
 {{ else if eq .Params.page_type "puppy-list" }}
 
 {{ else if eq .Params.page_type "puppy" }}
-
+<script type="application/ld+json">
+{ 
+    "@context": "https://schema.org", 
+    "@type": "BlogPosting",
+    "headline": {{.Params.title}},
+    "image": {{ printf "%s" .Params.asset.image | absURL }},
+    "publisher": {
+        "@type": "Organization",
+        "name":"Ethical Frenchie LLC",
+        "url":"https://ethicalfrenchie.com/",
+        "logo":"https://ethicalfrenchie.com/images/logo.png",
+        "sameAs":[
+            "https://www.facebook.com/ethicalfrenchie",
+            "https://www.instagram.com/ethicalfrenchie"
+        ],
+        "contactPoint":[
+            {
+                "@type":"ContactPoint",
+                "telephone":"+1.212.739.0182",
+                "contactType":"customer support"
+            }
+        ]
+    },
+    "url": {{ .Permalink }},
+    "description": {{ .Params.description }},
+    "inLanguage": "en-US",
+    "articleBody": {{ .Content }}
+}
+</script>
 {{ else if eq .Params.page_type "blog-list" }}
 
 {{ else if or (eq .Params.page_type "blog") (eq .Params.page_type "old-blog")  }}
