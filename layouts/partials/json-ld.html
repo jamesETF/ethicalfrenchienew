@@ -275,6 +275,13 @@
     "url": {{ .Permalink }},
     "description": {{ .Params.description }},
     "inLanguage": "en-US",
+    "author": {
+        "@type": "Person",
+        "name": {{ .Params.author }}
+    },
+    "dateCreated": {{ .Params.date }},
+    "datePublished": {{ .Params.date }},
+    "dateModified": {{ .Params.date }},
     "articleBody": {{ .Content }}
 }
 </script>
