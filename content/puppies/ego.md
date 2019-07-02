@@ -1,4 +1,6 @@
 +++
+author = "James Harrison"
+date = "2019-07-01T17:00:00-04:00"
 description = "My name is Ego and I’m a solid blue French Bulldog puppy, currently residing in Manhattan, New York. I’m 11 weeks old but already pretty big and chunky boy. My mom tells me I have the perfect structure and composition – I will grow up to be a perfect stud muffin. My blue eyes are just a bonus. I’m just the easiest little man to get along with. I don’t complicate and I’m super satisfied with just chilling in your lap or chasing a ball across the floor."
 fragment = "puppy"
 page_type = "puppy"
