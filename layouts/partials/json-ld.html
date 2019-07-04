@@ -670,5 +670,47 @@
 }
 </script>
 {{ else if eq .Params.page_type "contact-us" }}
-<meta content="this is contact">
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+		"Organization",
+		"LocalBusiness"
+	],
+    "name": "Ethical Frenchie LLC",
+    "logo": "https://ethicalfrenchie.com/images/logo.png",
+    "url": "https://ethicalfrenchie.com/",
+    "image": [
+        "https://ethicalfrenchie.com/images/logo.png",
+        "https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.jpg",
+        "https://ethicalfrenchie.com/images/hero-1.jpg"
+    ],
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17 State Street, 40th floor",
+        "addressLocality": "New York",
+        "addressRegion": "NY",
+        "postalCode": "10004",
+        "addressCountry": "US"
+    },
+    "telephone": "+12127390182",
+    "priceRange": "$$$",
+    "contactPoint": [
+		{
+			"@type": "ContactPoint",
+			"telephone": "+1 212 739-0182",
+            "contactType": "customer service",
+            "email": "adopt@ethicalfrenchie.com"
+		}
+	],
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://ethicalfrenchie.com/"
+    },
+    "sameAs":[
+        "https://www.facebook.com/ethicalfrenchie",
+        "https://www.instagram.com/ethicalfrenchie"
+    ]
+}
+</script>
 {{ end }}
