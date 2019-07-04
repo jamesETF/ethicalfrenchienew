@@ -613,7 +613,15 @@
 }
 </script>
 {{ else if eq .Params.page_type "blog-list" }}
-
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Wonder What Human Food Frenchies Can Eat? Prepare To Wow",
+    "description": "Wonder What Human Food Frenchies Can Eat? Read more to learn. All these foods are highly encouraged and almost obligatory if you are currently feeding plain commercial kibble.",
+    "url": "https://ethicalfrenchie.com/blog/"
+}
+</script>
 {{ else if or (eq .Params.page_type "blog") (eq .Params.page_type "old-blog")  }}
 <script type="application/ld+json">
 { 
