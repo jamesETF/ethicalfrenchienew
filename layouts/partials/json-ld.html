@@ -557,7 +557,15 @@
 }
 </script>
 {{ else if eq .Params.page_type "puppy-list" }}
-
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "French Bulldog Puppies",
+    "description": "View our upcoming litters and avaialbe frenchie puppies the story behind each of our puppies. Contact us for more information if you are looking for a blue french bulldog puppy.",
+    "url": "https://ethicalfrenchie.com/puppies/"
+}
+</script>
 {{ else if eq .Params.page_type "puppy" }}
 <script type="application/ld+json">
 { 
