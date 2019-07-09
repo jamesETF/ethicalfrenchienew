@@ -10,4 +10,4 @@ title = "About Us"
 content_align = "center"
 +++
 
-Hi! We’re James & Renee (and now Bryan!), nice to meet you. We are a small, exclusive French Bulldog breeder located on the East Coast. Our breeding program is focused on extra care, socialization and improving the breed. We aren’t your typical “Mom and Pops breeder” that has been around for 20 years. We are started breeding 3 years ago but expanded our program in 2018. We are responsible, knowledgeable and caring which makes us stand out in the sea of faulty backyard breeders and puppy mills.
+Hi! We’re James & Renee (and now Ely!), nice to meet you. We are a small, exclusive French Bulldog breeder based out of North Carolina, but have breeding homes in North Carolina, Manhattan, NY, and Santa Fe, NM via our Decentralized Breeding system (puppyback). Our breeding program is focused on extra care, socialization and improving the breed. We aren’t your typical “Mom and Pops breeder” that has been around for 20 years. We are started breeding 3 years ago but expanded our program in 2018. We are responsible, knowledgeable and caring which makes us stand out in the sea of faulty backyard breeders and puppy mills.
