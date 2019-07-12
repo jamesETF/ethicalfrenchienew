@@ -1,4 +1,4 @@
 +++
 headless = true
-description = "Blue French Bulldog Breeder located in North Carolina, New York, and Santa Fe, New Mexico via our decentralized breeding program (puppyback) Contact us as we should have your puppy available soon"
+description = "Blue French Bulldog Breeder located in New York, NY and Santa Fe,NM via our decentralized breeding program. Contact us as we should have your puppy available soon"
 +++

@@ -413,10 +413,5 @@ main.puppy-list {
   .testimonial .description:before{
     display: none;
   }
-}
-body div#intercom-container>div.intercom-app>iframe.intercom-launcher-frame {
-  bottom: 75px!important;
-  @include media-query-max($md) {
-    bottom: 115px!important;
-  }
+
 }
