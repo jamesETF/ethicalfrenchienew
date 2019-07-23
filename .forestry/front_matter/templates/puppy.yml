@@ -1,6 +1,6 @@
 ---
 label: Puppy
-hide_body: true
+hide_body: false
 fields:
 - type: number
   name: weight
