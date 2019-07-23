@@ -33,7 +33,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/blog
-  label: Blog
+  label: Past Blogs
   create: all
   match: "**/*"
   templates:
