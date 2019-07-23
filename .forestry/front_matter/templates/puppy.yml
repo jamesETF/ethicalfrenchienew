@@ -16,7 +16,7 @@ fields:
   label: description
 - type: field_group
   name: asset
-  label: asset
+  label: Main Image
   fields:
   - type: file
     name: image
