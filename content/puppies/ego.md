@@ -14,7 +14,7 @@ image = "/images/ego.jpg"
 +++
 ### Personality
 
-My name is Ego and I’m a solid blue French Bulldog puppy, currently residing in Manhattan, New York. I’m 11 weeks old but already pretty big and chunky boy. My mom tells me I have the perfect structure and composition – I will grow up to be a perfect stud muffin. My blue eyes are just a bonus. I’m just the easiest little man to get along with. I don’t complicate and I’m super satisfied with just chilling in your lap or chasing a ball across the floor.
+My name is Ego and I’m a solid blue French Bulldog puppy, currently residing in Manhattan, New York. I’m 11 weeks old but already pretty big and chunky boy.  testing My mom tells me I have the perfect structure and composition – I will grow up to be a perfect stud muffin. My blue eyes are just a bonus. I’m just the easiest little man to get along with. I don’t complicate and I’m super satisfied with just chilling in your lap or chasing a ball across the floor.
 
 We have a private roof and I love laying outside in the sun – in the typical Frenchie frog leg style. I love playing and am super good at destroying toys – so my current mom will recommend some durable toys that you can buy for me that will last more than 60 seconds.
 
