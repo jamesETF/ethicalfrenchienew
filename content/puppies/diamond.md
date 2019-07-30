@@ -13,11 +13,8 @@ image = "/images/diamond.jpg"
 
 +++
 We are Ethical Frenchie, thank you for your interest in one of our blue French Bulldog puppies for sale.
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+
 Let’s explain our background really quick. We are a couple hobby breeder, that strives to provide health, happy puppies, that will bring joy and excitement to any family. Our live is divided between North Carolina and New York City, due to our regular job, so puppies can be picked up at both placed.
 
 Our boy Charlie really makes the most gorgeous blue French Bulldog puppies. Diamond is just another example or an adorable, compact blue French Bulldog puppy from our breeding program.
