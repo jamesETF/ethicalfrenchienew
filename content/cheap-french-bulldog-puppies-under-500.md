@@ -1,28 +1,22 @@
 +++
-title = "Cheap French Bulldog Puppies Under $500"
-date = "2018-12-24"
-categories = ["health"]
-summary = """
-It’s something we hear too often these days. Unfortunately people don’t understand why this is impossible to find and why French Bulldogs are expensive in the first place.
-"""
-description = "Find where and how you can find inexpensive french bulldog puppies for under $500."
 author = "James Harrison"
-
-#subtitle = ""
-fragment = "old-blog"
-weight = 100
-#background = ""
-title_align = "left"
-display_date = true
+categories = ["health", "French Bulldog", " Frenchie Puppies"]
+date = "2019-07-30T00:00:00-04:00"
+description = "Find where and how you can find inexpensive french bulldog puppies for under $500."
 display_categories = true
+display_date = true
+fragment = "old-blog"
 page_type = "old-blog"
-[sidebar]
-  align = "right"
-
+summary = true
+title = "Cheap French Bulldog Puppies Under $500"
+title_align = "left"
+weight = 100
 [asset]
-  image = "/cheap-french-bulldog-puppies-under-500_hero.jpg"
-+++
+image = "/cheap-french-bulldog-puppies-under-500_hero.jpg"
+[sidebar]
+align = "right"
 
++++
 It’s something we hear too often these days. Unfortunately people don’t understand why this is impossible to find and why French Bulldogs are expensive in the first place. But please proceed on reading to get a better understanding of this complex but amazing breed.
 
 Another common question is **“How much does French Bulldog cost”**? Some breeders have **inexpensive French Bulldog puppies for sale**. Is that good or bad? We will answer all this and more in the content below, so stay with us.
