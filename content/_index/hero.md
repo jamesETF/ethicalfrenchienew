@@ -2,7 +2,7 @@
 background = "light"
 date = "2016-09-07"
 fragment = "hero"
-particles = true
+particles = false
 social = "ethicalfrenchie"
 weight = 50
 [hero]
