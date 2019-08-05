@@ -51,7 +51,7 @@ fields:
     label: Sidebar Title
     description: title block on sidebar
     default: Other Blog Posts
-  - name: _sticky
+  - name: sticky
     type: text
     config:
       required: false
