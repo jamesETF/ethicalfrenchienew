@@ -58,7 +58,7 @@ fields:
     label: Sticky
     description: sticky sidebar
     hidden: true
-    default: 'true'
+    default: 'false'
 - type: field_group
   name: asset
   label: asset
