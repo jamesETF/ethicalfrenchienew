@@ -51,6 +51,12 @@ fields:
     label: Sidebar Title
     description: title block on sidebar
     default: Other Blog Posts
+  - name: content
+    type: text
+    config:
+      required: false
+    label: Sidebar Content
+    description: content
 - type: field_group
   name: asset
   label: asset
