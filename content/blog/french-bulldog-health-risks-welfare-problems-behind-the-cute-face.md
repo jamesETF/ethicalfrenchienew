@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["French Bulldog Health"]
+categories = ["French Bulldog Health Issues", "French Bulldog Allergies", "French Bulldog Cherry Eye", "French Bulldog Health Risks", "French Bulldog Health"]
 date = "2019-08-05T17:00:00-04:00"
 description = "French bulldog health risks - what you need to know before bringing a new French Bulldog puppy to your family. Be a responsible dog owner and research the breed before committing."
 display_categories = true
