@@ -1,7 +1,7 @@
 +++
 author = "James Harrison"
 categories = ["French Bulldog Health"]
-date = "2019-06-19T17:00:00-04:00"
+date = "2019-08-05T17:00:00-04:00"
 description = "French bulldog health risks - what you need to know before bringing a new French Bulldog puppy to your family. Be a responsible dog owner and research the breed before committing."
 display_categories = true
 display_date = true
@@ -13,6 +13,7 @@ title = "French bulldog health risks – Welfare problems behind the cute face"
 image = "/images/White-French-Bulldog-1.jpg"
 [sidebar]
 align = "right"
+title = ""
 
 +++
 The French Bulldog has its name on the list of the most popular dog breeds across the UK. But the interest of owning one Frenchies doesn’t come solely with the high initial cost whatsoever; the **French bulldog health risks** are going to add up the after-expenses.
@@ -117,7 +118,7 @@ A responsible breeder will make sure the Dam and Sire are a genetic match before
 
 You can take your dog to a clinic and request a BAER test to diagnose the hearing ability for French pups as young as 6 weeks old.
 
-## Last words
+## In Summary
 
 Taking care of a brachycephalic pet is not a picnic work. It requires extreme care and love; on the other side is finance and patience to look after the **French Bulldog health risks**.
 
