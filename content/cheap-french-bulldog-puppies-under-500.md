@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["health", "French Bulldog", " Frenchie Puppies"]
+categories = ["French Bulldog", "Cheap French Bulldog Puppies", "French Bulldog Breeding"]
 date = "2019-07-30T00:00:00-04:00"
 description = "Looking for Cheap French Bulldog Puppies under $500? Click here to learn about the high cost behind the breeding process, that makes it impossible. "
 display_categories = true
