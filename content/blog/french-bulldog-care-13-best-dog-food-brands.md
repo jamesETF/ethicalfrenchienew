@@ -41,7 +41,7 @@ When I decided to write a blog about the **Best Food for a French Bulldog** - Ho
 
 ![Image of the Open Farm Raw Dog Food ](/images/Open-farm.jpg "Open-farm-raw-dog-food")
 
-Many French Bulldog owners swear by the  [raw dog diet](https://www.servicedogcertifications.org/benefits-of-a-raw-food-diet-for-dogs/ "raw dog diet benefits"). If you are too grossed out to actually prepare the meals yourself, you can always decide to go with many [Open Farm Freeze Dried Raw Food]() variations.
+Many French Bulldog owners swear by the  [raw dog diet](https://www.servicedogcertifications.org/benefits-of-a-raw-food-diet-for-dogs/ "raw dog diet benefits"). If you are too grossed out to actually prepare the meals yourself, you can always decide to go with many [Open Farm Freeze Dried Raw Food](https://openfarmpet.com/collections/freeze-dried-dog-food "Open Farm Raw Dog Food ") variations.
 
 ### **Stella and Chewy's Raw Kibble Blend**
 
