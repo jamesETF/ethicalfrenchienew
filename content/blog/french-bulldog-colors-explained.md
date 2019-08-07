@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["French Bulldog Information"]
+categories = ["Pied French Bulldog", "Merle French Bulldog", "Lilac French Bulldog", "Blue French Bulldog", "French Bulldog Colors"]
 date = "2019-06-26T00:00:00-04:00"
 description = "Learn more about French Bulldog Colors and what are the difference between standard and exotic French Bulldog Colors."
 display_categories = true
