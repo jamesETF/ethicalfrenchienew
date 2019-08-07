@@ -65,10 +65,10 @@ fields:
   label: Page Type
   default: blog
 pages:
+- content/blog/french-bulldog-care-13-best-dog-food-brands.md
 - content/blog/traits-of-a-french-bulldog-you-may-not-know.md
 - content/blog/french-bulldog-colors-explained.md
 - content/blog/french-bulldog-health-risks-welfare-problems-behind-the-cute-face.md
 - content/blog/why-french-bulldogs-are-expensive-before-adoption.md
-- content/blog/french-bulldog-care-13-best-dog-food-brands.md
 - content/blog/a-thorough-understanding-of-nutrients-for-french-bulldogs.md
 - content/blog/what-is-a-blue-french-bulldog-and-how-to-care-for-them.md

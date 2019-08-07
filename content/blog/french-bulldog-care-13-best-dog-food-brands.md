@@ -1,6 +1,6 @@
 +++
 author = "James Harrison III"
-categories = ["Best Food For French Bulldogs"]
+categories = ["French Bulldog Dog Food", "Best Food For French Bulldogs"]
 date = "2019-08-05T00:00:00-04:00"
 description = "Best Food for French Bulldog puppies and adults in 2019. These dog food brands are high quality and not related to the recent link between diet and DCM."
 display_categories = true
