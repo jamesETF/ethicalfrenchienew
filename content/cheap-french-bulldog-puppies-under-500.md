@@ -2,13 +2,13 @@
 author = "James Harrison"
 categories = ["health", "French Bulldog", " Frenchie Puppies"]
 date = "2019-07-30T00:00:00-04:00"
-description = "Find where and how you can find inexpensive french bulldog puppies for under $500."
+description = "Looking for Cheap French Bulldog Puppies under $500? Click here to learn about the high cost behind the breeding process, that makes it impossible. "
 display_categories = true
 display_date = true
 fragment = "old-blog"
 page_type = "old-blog"
 summary = true
-title = "Cheap French Bulldog Puppies Under $500"
+title = "Cheap French Bulldog Puppies Under $500 : Why It's Impossible"
 title_align = "left"
 weight = 100
 [asset]
@@ -17,13 +17,13 @@ image = "/cheap-french-bulldog-puppies-under-500_hero.jpg"
 align = "right"
 
 +++
-It’s something we hear too often these days. Unfortunately people don’t understand why this is impossible to find and why French Bulldogs are expensive in the first place. But please proceed on reading to get a better understanding of this complex but amazing breed.
+## Looking for cheap French Bulldogs under $500? Knowledge is power. Keep on reading.
 
-Another common question is **“How much does French Bulldog cost”**? Some breeders have **inexpensive French Bulldog puppies for sale**. Is that good or bad? We will answer all this and more in the content below, so stay with us.
+French Bulldogs - the clowns of the canine world. Loved and desired by so many, but definitely quite an investment. Here are a few reasons why:
 
-## The cost of Breeding a French bulldog
+### The cost of breeding a French Bulldog
 
-![Cost of Breeding a French bulldog](/images/cheap-french-bulldog-puppies-under-500_1.jpg)
+![image of a fawn french bulldog male](/images/cheap-french-bulldog-puppies-under-500_1.jpg "fawn-french-bulldog")
 
 Before you decide to breed it’s important to clear your dog of any unwanted, genetic disorders.
 
@@ -37,32 +37,42 @@ After the puppies are born, they need to be fed every 2-3 hours for the first 10
 
 After that come all the vet bills. Making sure all the dogs are healthy, have their shots, have been dewormed and are parasite free, etc. Don’t mention the quality food the breeders have to provide while the puppies are in their care. So if a breeder would sell **cheap French Bulldog puppies under $500**, that wouldn’t cover any of the initial expenses.
 
-## How much does French Bulldog cost
+[**Click here to learn more about the French Bulldog breeding process that makes them expensive**](https://ethicalfrenchie.com/blog/why-french-bulldogs-are-expensive-before-adoption/ "French Bulldog Breeding Cost")
 
-The prices of French Bulldogs vary, but let’s say the typical price for a standard one would be around $2000. By standard we mean **brindle, pied, fawn, cream**. Again it all depends on the breeding cost. Did the breeders own both male and female, did the female gave birth naturally, etc. If they invested more time and money, the price will go up.
+### How much does a French Bulldog Cost?
 
-![How much does French Bulldog cost](/images/cheap-french-bulldog-puppies-under-500_2.jpg)
+The prices of French Bulldogs vary, but let’s say the typical price for a standard one would be around $2500. 
 
-You will pay much more for “rare” colors and variations, such as **blue, chocolate, black and tan or lilac French Bulldogs**. The price will also go up if you your dog is from a “champion blood line” or has a genetic mutation that makes him “fluffy”. The fluffy Frenchie is very rare and goes for as much as $15000 and more.
+By standard we mean **brindle, pied, fawn, cream**. Again it all depends on the breeding cost.
 
-![Blue, chocolate, black and tan or lilac French Bulldogs](images/cheap-french-bulldog-puppies-under-500_3.jpg)
+Did the breeders own both male and female, did the female gave birth naturally, etc. If they invested more time and money, the price will go up.
 
-![Blue, chocolate, black and tan or lilac French Bulldogs](/images/cheap-french-bulldog-puppies-under-500_4.jpg)
+![brindle french bulldog puppy playing outside](/images/cheap-french-bulldog-puppies-under-500_2.jpg "brindle-french-bulldog-puppy")
+
+You will pay much more for “rare” colors and variations, such as **blue, chocolate, black and tan or lilac French Bulldogs**. 
+
+The price will also go up if you your dog is from a “champion blood line” or has a genetic mutation that makes him “fluffy”. The fluffy Frenchie is very rare and goes for as much as $15000 and more.
+
+![Image of a gorgeous lilac fawn french bulldog male](images/cheap-french-bulldog-puppies-under-500_3.jpg "lilac-french-bulldog")
+
+[**Click here to learn about the different French Bulldog colors and price ranges.**](https://ethicalfrenchie.com/blog/french-bulldog-colors-explained/ "French Bulldog colors and prices")
 
 As you see there are many things that affect **how much does French Bulldog cost**. But if you are at the end of the day looking for a Frenchie companion because of their amusing, loving qualities, the color doesn’t play a role.
 
-## Inexpensive French Bulldog Puppies For Sale
+### Inexpensive French Bulldog Puppies for sale
 
-Ok, the part you were all waiting for. You are scrolling online with the the intention to find **inexpensive French Bulldog puppies for sale** and maybe you find some. Should you be alarmed?
+Ok, the part you were  waiting for.
 
-Well it really depends. There is a big chance the puppies are produced in a puppy factory with less regulation, less care, no genetic testing, didn’t receive their shots, etc. Long story short the breeder didn’t invest that much, so they can be sold for less.
+ You are scrolling online with the the intention to find **inexpensive French Bulldog puppies for sale** and maybe you find some. Should you be alarmed?
 
-Dogs in a puppy mill often live in dirty cages without any access to the outside world, aren’t receiving the basic care and are bred multiple times in their lifetime before dumped in a shelter. Since the females aren’t cared for, the chances are the puppies aren’t in the best shape either. So at the end of the day, you get what you paid for.
+Well it really depends. There is a big chance the puppies are produced in a puppy factory with less regulation, less care, no genetic testing, zero vet care, etc.
+
+Long story short the breeder didn’t invest that much, so they can be sold for less.
+
+Dogs in a puppy mill often live in dirty cages without any access to the outside world, aren’t receiving the basic care and are bred multiple times in their lifetime before dumped in a shelter
+
+. Since the females aren’t cared for, the chances are the puppies aren’t in the best shape either. So at the end of the day, you get what you paid for.
 
 Next time you see a post with **inexpensive French Bulldog puppies for sale** at an alarming price, our advice is do as much research as possible. I know the puppy looks cute, but it might be a heartbreak waiting to happen.
 
-**You really still want a French Bulldog but can’t swing the full amount? We offer payment plans for up-coming litters. Please reach out at any time.**
-
-**Can’t go beyond $500? Reach out to French Bulldog rescue groups in your state to see if they have a Frenchie in need of a loving home.**
-
-![Inexpensive French Bulldog Puppies For Sale](/images/cheap-french-bulldog-puppies-under-500_5.jpg)
+### Still set on a French Bulldog puppy, but can't afford the investment? We offer payment plan options for our French Bulldog Puppies for sale. Reach out to us directly for more information.
