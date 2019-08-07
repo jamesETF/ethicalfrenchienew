@@ -1,7 +1,7 @@
 +++
 author = "James Harrison"
 categories = ["Blue French Bulldog Care", "Blue French Bulldog", "Blue French Bullldog Puppy", "Blue Frenchie"]
-date = "2019-06-26T00:00:00-04:00"
+date = "2019-08-06T00:00:00-04:00"
 description = "What is a blue French bulldog and How to care for them. Thinking about getting a new family member but aren't familiar with the breed? This blog will cover everything you need to know."
 display_categories = true
 display_date = true
