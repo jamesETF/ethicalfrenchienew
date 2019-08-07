@@ -1,14 +1,14 @@
 +++
 author = "James Harrison"
-categories = ["French Bulldog Information"]
-date = "2019-06-26T00:00:00-04:00"
+categories = ["French Bulldog Size", "French Bulldog Personality ", "Frenchie Traits", "French Bulldog Temperament", "French Bulldog Traits"]
+date = "2019-08-06T00:00:00-04:00"
 description = "It’s better to know the traits of a French bulldog before adopting one. Learn how the characteristics of Frenchies make them one of the best dogs to own."
 display_categories = true
 display_date = true
 fragment = "blog"
 page_type = "blog"
 summary = "It’s better to know the traits of a French bulldog before adopting one. Learn how the characteristics of Frenchies make them one of the best dogs to own."
-title = "Traits of a French bulldog you may not know"
+title = "Traits of a French Bulldog You May Not Know"
 [asset]
 image = "/images/Stud-fee-French-Bulldogs.jpg"
 [sidebar]
