@@ -84,7 +84,7 @@ Cost of whelping supplies alone can be 500$ and more.
 
 ### Quality Dog Food
 
-![Image of a Fromm Puppy Dog Food Packaging](/images/Fromm-Dog-Food-Kibble.jpg "Fromm-dog-puppy-food")
+![Image of the Nulo Salmon Puppy Dog Food](/images/nulo-dog-food-for-french-bulldog.png "Nulo-puppy-dog-food")
 
 Keep in mind that the breeder will care for the puppies for the first 8-10 weeks of their lives. THAT IS PLENTY OF FOOD. Puppies are developing and need top quality food for optimal growth. The dam needs frequent meals during pregnancy, as well as after due to nursing.
 
