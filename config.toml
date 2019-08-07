@@ -13,11 +13,11 @@ enableRobotsTXT = "true"
   debug = false
   unsafeEvents = false # Default is false. Enables ?event=type format of url events.
   social = "ethicalfrenchie"
-  keywords = ["French Bulldog Breeder", "French Bulldog Puppies for sale New York"]
+  keywords = ["French Bulldog Breeder", "French Bulldog Puppies for sale New York, french bulldogs for sale, french bulldog puppies near me"]
   image = "https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.jpg"
 
   [params.style]
-    background = "#fefefe"
+    background = "#FFFFFF"
 
   # Theme customizations
   # Assets relative to 'static/'

@@ -1,3 +1,4 @@
+
 +++
 author = "James Harrison"
 categories = ["French Bulldog", "Cheap French Bulldog Puppies", "French Bulldog Puppies Under $500", "French Bulldog Puppies under 1000$"]
@@ -9,8 +10,8 @@ fragment = "old-blog"
 page_type = "old-blog"
 summary = true
 title = "Cheap French Bulldog Puppies Under $500 : Why It's Impossible"
-title_align = "left"
-weight = 100
+title_align = "center"
+weight = 120
 [asset]
 image = "/cheap-french-bulldog-puppies-under-500_hero.jpg"
 [sidebar]
@@ -71,8 +72,9 @@ Long story short the breeder didn’t invest that much, so they can be sold for 
 
 Dogs in a puppy mill often live in dirty cages without any access to the outside world, aren’t receiving the basic care and are bred multiple times in their lifetime before dumped in a shelter
 
-. Since the females aren’t cared for, the chances are the puppies aren’t in the best shape either. So at the end of the day, you get what you paid for.
+Since the females aren’t cared for, the chances are the puppies aren’t in the best shape either. So at the end of the day, you get what you paid for.
 
 Next time you see a post with **inexpensive French Bulldog puppies for sale** at an alarming price, our advice is do as much research as possible. I know the puppy looks cute, but it might be a heartbreak waiting to happen.
 
-### Still set on a French Bulldog puppy, but can't afford the investment? We offer payment plan options for our French Bulldog Puppies for sale. Reach out to us directly for more information.
+### Still set on a French Bulldog puppy, but can't afford the investment?###
+We are working with a new finance partner, and you are welcome to see if you qualify for a frenchie below. 
