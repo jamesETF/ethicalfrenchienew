@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-date = "2018-07-20T00:00:00-04:00"
+date = "2018-08-05T00:00:00-04:00"
 description = "Wonder What Human Food Frenchies Can Eat? Read more to learn. All these foods are highly encouraged and almost obligatory if you are currently feeding plain commercial kibble. "
 display_categories = true
 display_date = true
