@@ -8,7 +8,7 @@ display_date = true
 fragment = "blog"
 page_type = "blog"
 summary = "Best Food Brands for French Bulldogs that will keep your Frenchie healthy and thriving."
-title = "The Best Food For a French Bulldog : Our 2019 Edition"
+title = "Best Food For a French Bulldog - Our 2019 Guide"
 [asset]
 image = "/images/French-bulldog-dog-food.jpg"
 [sidebar]
