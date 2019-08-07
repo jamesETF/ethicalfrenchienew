@@ -1,3 +1,23 @@
++++
+author = ""
+categories = []
+date = ""
+description = ""
+display_categories = true
+display_date = true
+draft = true
+fragment = "blog"
+page_type = "Blog"
+summary = ""
+title = ""
+[asset]
+image = ""
+[sidebar]
+align = "right"
+content = ""
+title = ""
+
++++
 ﻿+++
 author = "James Harrison"
 categories = []
