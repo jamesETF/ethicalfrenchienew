@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["food", "health"]
+categories = ["French Bulldog", "French Bulldog Food Recipes", "French Bulldog Home Made Food", "Best French Bulldog Food"]
 date = "2019-08-06T00:00:00-04:00"
 description = "Looking for French Bulldog Food Recipes? Check out our top 4 home made dog food picks that will keep your Frenchie healthy and happy. "
 display_categories = true
