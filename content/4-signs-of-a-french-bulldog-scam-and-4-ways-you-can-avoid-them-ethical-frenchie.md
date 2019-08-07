@@ -8,7 +8,7 @@ display_date = true
 fragment = "old-blog"
 page_type = "old-blog"
 summary = "4 Signs of a French Bulldog Scam Con artists are quite sophisticated.\n"
-title = "4 Signs of a French Bulldog Scam and 4 Ways You Can Avoid Them | Ethical Frenchie"
+title = "4 Signs of a French Bulldog Scam and 4 Ways You Can Avoid Them "
 title_align = "left"
 weight = 100
 [asset]
