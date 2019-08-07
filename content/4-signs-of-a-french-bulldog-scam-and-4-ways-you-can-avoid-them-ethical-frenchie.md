@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["french bulldog", "French Bulldog Scams", "Signs of a french bulldog scam"]
+categories = ["French Bulldog Scams", "Signs of a french bulldog scam", "Puppy Scams", "French Bulldog"]
 date = "2019-08-06T00:00:00-04:00"
 description = "Learn about the 4 signs of a French Bulldog scam and how to easily avoid them while on a search for a new Frenchie Puppy. Research, research and again research is the key!"
 display_categories = true
