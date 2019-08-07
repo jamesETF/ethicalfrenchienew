@@ -1,49 +1,32 @@
 +++
-author = ""
-categories = []
-date = ""
-description = ""
+author = "James Harrison III"
+categories = ["Best Food For French Bulldogs", "August", "2019", "Frenchie Dog Food"]
+date = "2019-08-05T00:00:00-04:00"
+description = "Top 10 French Bulldog food brands of 2019 - The best dog food brands for a French Bulldog.  For both puppies and aging Frenchies we've got you covered in our Frenchie food top 13."
 display_categories = true
 display_date = true
 draft = true
 fragment = "blog"
 page_type = "Blog"
-summary = ""
-title = ""
+summary = "Picking the right food is one of the most important steps to French Bulldog Care. Here are the 10 Best Dog Food Brands we personally use and swear by"
+title = "Here is the best food for a French Bulldog - From Raw to Kibble 2019"
 [asset]
-image = ""
+image = "/images/Top-10-Best-French-Bulldog-Foods-2019.jpg"
 [sidebar]
 align = "right"
 content = ""
 title = ""
 
 +++
-﻿+++
-author = "James Harrison"
-categories = []
-date = "2019-06-26T00:00:00-04:00"
-description = "These 13 best foods for your french bulldog, and brands that should be a priority factor in your French Bulldog Care routine. Remember a healthy Frenchie is a happy Frenchie."
-display_categories = true
-display_date = true
-fragment = "blog"
-summary = "Picking the right food is one of the most important steps to French Bulldog Care. Here are the 13 Best Dog Food Brands we personally use and swear by."
-title = "French Bulldog Care - 13 Best Dog Food Brands"
-page_type = "blog"
-[asset]
-image = "/images/French-bulldog-dog-food.jpg"
-[sidebar]
-align = "right"
+## First step to responsible French Bulldog care is picking the right food. Here are the 10 best dog food brands we swear by.
 
-+++
-## **First step to responsible French Bulldog care is picking the right food. Here are the 13 best dog food brands we swear by.**
+Yes, kibble is very convenient and that’s what a big portion of dogs owners worldwide feeds, but is it really the best option for your dog?
 
-**Yes, kibble is very convenient and that’s what a big portion of dogs owners worldwide feeds, but is it really the best option for your dog?**
+Dogs just like humans, require fresh food to thrive. Your French Bulldog will experience less issues if fed a high quality diet. Below you can find some examples of high quality kibble, if anything else is out of the budget, but also some other variations that I would personally recommend when it comes to French Bulldog care. If you decide to feed a high quality kibble make sure you still add some fresh ingredients like carrots, blueberries, spinach, etc. to your dogs diet.
 
-**Dogs just like humans, require fresh food to thrive. Your French Bulldog will experience less issues if fed a high quality diet. Below you can find some examples of high quality kibble, if anything else is out of the budget, but also some other variations that I would personally recommend when it comes to French Bulldog care. If you decide to feed a high quality kibble make sure you still add some fresh ingredients like carrots, blueberries, spinach, etc. to your dogs diet.**
+Here are a few dog food brands, we trust for our French Bulldog adults, as well as puppies.
 
-**Here are a few dog food brands, we trust for our French Bulldog adults, as well as puppies.**
-
-## Fromm
+### Fromm
 
 ![Fromm Salmon Dog  Food](/images/Fromm-Salmon-Dog-Food.jpg "Fromm-Salmon-Dog-Food")
 
