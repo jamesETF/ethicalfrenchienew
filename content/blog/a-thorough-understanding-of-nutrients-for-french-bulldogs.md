@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["French Bulldog Health", "French Bulldog Food"]
+categories = ["French Bulldog Care", "Nutrients For French Bulldog", "Best French Bulldog Foods", "French Bulldog Health"]
 date = "2019-08-06T00:00:00-04:00"
 description = "Do you have A Thorough Understanding of Nutrients for French Bulldogs ? Continue reading and inform yourself about what your Frenchies food should consist of. "
 display_categories = true
