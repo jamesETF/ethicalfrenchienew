@@ -17,7 +17,9 @@ content = ""
 title = ""
 
 +++
-## How to pick the Best Food for a French Bulldog? Follow our 2019 guideline below!
+## How to pick the Best Food for a French Bulldog? 
+
+## Follow our 2019 guideline below!
 
 Yes, kibble is very convenient and that’s what a big portion of dogs owners worldwide feeds, but is it really the best option for your dog? As a responsible dog owner you are probably what is the **best food for a French Bulldog in 2019?**
 
