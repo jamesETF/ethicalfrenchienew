@@ -1,18 +1,20 @@
 +++
 author = "James Harrison"
 categories = ["French Bulldog Health", "French Bulldog Food"]
-date = "2019-06-26T00:00:00-04:00"
+date = "2019-08-06T00:00:00-04:00"
 description = "Do you have A Thorough Understanding of Nutrients for French Bulldogs ? Continue reading and inform yourself about what your Frenchies food should consist of. "
 display_categories = true
 display_date = true
 fragment = "blog"
+page_type = "blog"
 summary = "It's all about a balanced diet. Click to read more on what are the do's and don't in the Frenchie diet."
 title = "A Thorough Understanding of Nutrients for French Bulldogs"
-page_type = "blog"
 [asset]
 image = "/images/nutrients-french-bulldog.jpg"
 [sidebar]
 align = "right"
+content = ""
+title = ""
 
 +++
 Frenchies are among the most favorite pets of worldwide households because of their lovable companionship. Therefore, no wonder you want to spare the best food for your furry friends.
@@ -23,7 +25,7 @@ So, let’s sort out the essential **nutrients for French bulldogs** you should 
 
 ## Vital nutrients for French Bulldogs
 
- ![](/images/vital-nutrients.jpg)
+![Image of food containing vital nutrients for french bulldog](/images/vital-nutrients.jpg "vital-nutrients-french-bulldog")
 
 ### Protein
 
@@ -35,7 +37,7 @@ Soybean meal is known as a by-product created during the production of soybean o
 
 Meat used in Frenchie food should be the clean flesh of slaughtered lamb, turkey, chicken, or cattle.
 
-![](/images/protein-raw.jpg)
+![Image of raw chicken protein](/images/protein-raw.jpg "protein-chicken")
 
 Sometimes, there are striated skeletal muscle, diaphragm, esophagus, tongue, and heart attached in that flesh. Hair, horns, hooves, teeth, and feathers will get completely removed so as not to mix with the fresh meat.
 
@@ -61,11 +63,13 @@ Minerals are helpful in muscle contractions and nerve transmissions besides prov
 
 Fats are another necessary substance for dogs to take in through eating food. Once digested, they can provide bodies with necessary fat subunits, omega-3, and omega-6 fatty acids.
 
-![](/images/fat-protein.jpg)
+![Image of fat rich raw salmon](/images/fat-protein.jpg "fat-raw-salom")
 
 Numerous studies have indicated that omega-3 fatty acids play a crucial role in decreasing inflammation and blood clotting while omega-6 fatty acids serve to maintain proper membrane structure as well as enhance Frenchie’s coat and skin. Fats are the primary source of stored energy found in the body, which can provide a two-fold amount of energy compared to proteins or carbohydrates.
 
 Fats are abundant in fish, poultry, meat and plant oils, namely flax and vegetable oils, so such kinds of food are in many vets’ recommendations for dog diets.
+
+Click here to check out the[ Best Dog Food for French Bulldogs](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Best Dog Food for French Bulldogs").
 
 ## 
 
@@ -115,4 +119,6 @@ Fake taste and colors may trigger your [French bulldog](https://frenchbulldog.ny
 
 ## Welcome a healthy Frenchie
 
-Generally speaking, pet owners should conduct comprehensive research on all dog food brands to pick out the best dog food suited for their pets’ health condition. Refer to the list mentioned above of common ingredients as well as harmful ones, or consult a veterinarian if necessary, and you can make informed decisions in the interests of your lovely friends
+Generally speaking, pet owners should conduct comprehensive research on all dog food brands to pick out the best dog food suited for their pets’ health condition. Refer to the list mentioned above of common ingredients as well as harmful ones, or consult a veterinarian if necessary, and you can make informed decisions in the interests of your lovely friends.
+
+Interested in making your own food? Click here for [French Bulldog Food Recipes](https://ethicalfrenchie.com/home-cooked-food-for-your-french-bulldog-ethical-frenchie/ "French Bulldog Food Recipes").
