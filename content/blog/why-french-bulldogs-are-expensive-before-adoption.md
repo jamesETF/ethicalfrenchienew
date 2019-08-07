@@ -1,6 +1,6 @@
 +++
 author = "James Harrison"
-categories = ["French Bulldog Information"]
+categories = ["French Bulldog Breeding", "French Bulldog Puppies", "French Bulldog Cost", "French Bulldog Price"]
 date = "2019-06-26T00:00:00-04:00"
 description = "French Bulldogs - one of the most popular, but also quite expensive breeds. Click to learn the reason behind the high price tag."
 display_categories = true
