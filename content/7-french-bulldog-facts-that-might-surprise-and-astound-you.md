@@ -1,28 +1,22 @@
 +++
-title = "7 French Bulldog Facts that Might Surprise and Astound You"
-date = "2019-03-18"
-categories = ["frenchie", "french bulldog", "frenchie kb"]
-summary = """
-1. French Bulldogs are a Hit with Hollywood Royalty With their calm French Bulldog temperament and undeniable star-quality, it may not shock you to learn that celebrities go gaga for Frenchies!
-"""
-description = "So, you’re reading a French Bulldog blog -- it’s apparent that you probably love this breed. But, even the most informed French Bulldog enthusiasts may be surprised to learn some of these unique and awe-inspiring Frenchie facts."
 author = "James Harrison"
-
-#subtitle = ""
-fragment = "old-blog"
-weight = 100
-#background = ""
-title_align = "left"
-display_date = true
+categories = ["frenchie", "french bulldog", "French Bulldog Facts"]
+date = "2019-03-18"
+description = "So, you’re reading a French Bulldog blog -- it’s apparent that you probably love this breed. But, even the most informed French Bulldog enthusiasts may be surprised to learn some of these unique and awe-inspiring Frenchie facts."
 display_categories = true
+display_date = true
+fragment = "old-blog"
 page_type = "old-blog"
-[sidebar]
-  align = "right"
-
+summary = "1. French Bulldogs are a Hit with Hollywood Royalty With their calm French Bulldog temperament and undeniable star-quality, it may not shock you to learn that celebrities go gaga for Frenchies!\n"
+title = "7 French Bulldog Facts that Might Surprise and Astound You"
+title_align = "left"
+weight = 100
 [asset]
-  image = "/cheap-french-bulldog-puppies-under-500_5.jpg"
-+++
+image = "/cheap-french-bulldog-puppies-under-500_5.jpg"
+[sidebar]
+align = "right"
 
++++
 ## 1. French Bulldogs are a Hit with Hollywood Royalty
 
 With their calm French Bulldog temperament and undeniable star-quality, it may not shock you to learn that celebrities go gaga for Frenchies! In fact, Gaga, herself, has a French Bulldog named Asia Kinney who has appeared in some of the most famous photoshoots with her fashionable mom.
