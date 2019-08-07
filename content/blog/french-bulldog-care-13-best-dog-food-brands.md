@@ -73,7 +73,7 @@ I use their frozen raw food daily and I think it's the **best dog food for frenc
 
 ![My Ollie Dog Food](/images/my-ollie-dog-food.jpg "my-ollie-dog-food")
 
-[My Ollie](https://www.myollie.com/ "My Ollie Fresh Dog Food") is another dog food subscription that allows you to customize your French Bulldogs food plan. 
+[My Ollie](https://www.myollie.com/ "My Ollie Fresh Dog Food") is another dog food subscription that allows you to customize your **French Bulldog food** plan. 
 
 We love their Beefy Hearts Recipe that contains all the [Vital French Bulldog Nutrients](https://ethicalfrenchie.com/blog/a-thorough-understanding-of-nutrients-for-french-bulldogs/ "Nutrients For French Bulldog") : Beef, beef heart, beef kidney, sweet potato, beef liver, peas, potato, carrot, spinach, chia seed, dicalcium phosphate, sunflower oil, blueberries, calcium carbonate, fish oil (preserved with tocopherols), iodized salt, zinc gluconate, basil, rosemary, vitamin E supplement, pyridoxine hydrochloride (Vitamin B6), riboflavin (Vitamin B2).
 
@@ -81,9 +81,9 @@ We love their Beefy Hearts Recipe that contains all the [Vital French Bulldog Nu
 
 ![Image Of Nulo Dog Food Packaging](/images/nulo-dog-food-for-french-bulldog.png "Nulo-dog-food")
 
-[Nulo ](https://www.nulo.com/our-food/dog-food/freestyle-adult-dog-salmon-and-peas-recipe/ "Nulo Salmon Dog Food")is a small dog food brand that caught everyone's attention with their high meat formulated kibbles. 
+[Nulo ](https://www.nulo.com/our-food/dog-food/freestyle-adult-dog-salmon-and-peas-recipe/ "Nulo Salmon Dog Food")is a small **dog food brand** that caught everyone's attention with their high meat formulated kibbles. 
 
-If you look at the ingredients of commercial kibbles, most of them contain fillers, but not that much meat. Meat is crucial for your dogs health and should always be the number 1st, 2nd and 3rd ingredient.
+If you look at the ingredients of commercial **kibbles**, most of them contain fillers, but not that much meat. Meat is crucial for your dogs health and should always be the number 1st, 2nd and 3rd ingredient.
 
 ### **Fresh Pet Dog Food**
 
