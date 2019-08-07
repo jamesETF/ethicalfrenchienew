@@ -51,14 +51,6 @@ fields:
     label: Sidebar Title
     description: title block on sidebar
     default: Other Blog Posts
-  - name: content
-    type: text
-    config:
-      required: true
-    label: Sticky
-    description: sticky sidebar
-    hidden: true
-    default: 'true'
 - type: field_group
   name: asset
   label: asset
