@@ -1,12 +1,12 @@
 +++
 author = "James Harrison III"
-categories = ["Best Food For French Bulldogs", "August", "2019", "Frenchie Dog Food"]
+categories = ["Best Food For French Bulldogs", "August", "Frenchie Dog Food"]
 date = "2019-08-05T00:00:00-04:00"
 description = "Best Food for French Bulldog puppies and adults in 2019. These dog food brands are high quality and not related to the recent link between diet and DCM."
 display_categories = true
 display_date = true
 fragment = "blog"
-page_type = "Blog"
+page_type = "blog"
 summary = "Best Food Brands for French Bulldogs that will keep your Frenchie healthy and thriving."
 title = "Here is The Best Food For a French Bulldog - 2019 Edition"
 [asset]
