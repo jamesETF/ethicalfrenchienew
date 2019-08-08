@@ -1,7 +1,8 @@
 +++
 fragment = "pricing"
-weight = 100
+weight = 120
 background = "#Secondary"
+padding = "1"
 
 title = "You Have Options"
 subtitle = "With 2 different lendors, you *should qualify quickly"

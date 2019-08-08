@@ -4,7 +4,7 @@ weight = 10
 title = "Community Finance LLC"
 subtitle = "Credit Scores of"
 
-price = "550-650"
+price = "550+"
 # highlight = true
 
 button_text = "Apply Here"
