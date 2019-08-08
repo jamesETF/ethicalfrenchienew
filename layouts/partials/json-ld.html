@@ -713,4 +713,106 @@
     ]
 }
 </script>
+{{ else if eq .Params.page_type "old-cheap" }}
+<script type="application/ld+json">
+    { 
+        "@context": "https://schema.org", 
+        "@type": "BlogPosting",
+        "headline": {{.Params.title}},
+        "image": {
+            "@type": "ImageObject",
+            "url": {{ if eq .Params.page_type "blog" }}{{ printf "%s" .Params.asset.image | absURL }}{{ else }}{{ printf "/images%s" .Params.asset.image | absURL }}{{ end }}
+        },
+        "keywords": {{ .Params.categories }},
+        "publisher": {
+            "@type": "Organization",
+            "name":"Ethical Frenchie LLC",
+            "url":"https://ethicalfrenchie.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://ethicalfrenchie.com/images/logo.png"
+            },
+            "sameAs":[
+                "https://www.facebook.com/ethicalfrenchie",
+                "https://www.instagram.com/ethicalfrenchie"
+            ],
+            "contactPoint":[
+                {
+                    "@type":"ContactPoint",
+                    "telephone":"+1.212.739.0182",
+                    "contactType":"customer support"
+                }
+            ]
+        },
+        "url": {{ .Permalink }},
+        "dateCreated": {{ .Params.date }},
+        "datePublished": {{ .Params.date }},
+        "dateModified": {{ .Params.date }},
+        "description": {{ .Params.description }},
+        "inLanguage": "en-US",
+        "author": {
+            "@type": "Person",
+            "name": {{ .Params.author }}
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage"
+        },
+        "articleBody": {{ .Content }}
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Do $500 French Bulldog puppies exist?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, French Bulldog’s exist at a shelter, but if you’re looking for a baby to raise as your own, anyone who asks $500 will likely be a scam. The prices for French Bulldog Puppies start at 2000$ on the lower end."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Why are French Bulldogs so expensive?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "French Bulldog Puppies are expensive because they cannot mate or breed naturally and require artificial insemination. French Bulldogs also cannot have natural births, each birth must be a C-Section. However, to help you with the costs you can apply for financing for one of our puppies through our partner."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "I’m on a budget, can I get a French Bulldog this week?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! Financing a French Bulldog Puppy is an option with Ethical Frenchie (Ethical Kennel). All you must do is apply with one of the 2 financing companies we work with. The process is very smooth and fast after you get approved and you can bring your Frenchie puppy home within days."
+            },
+            {
+                "@type": "Question",
+                "name": "How does financing work?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It’s quick and easy, we have had a few people apply for financing and were successful, in fact, nobody we know has been denied yet. If you are seriously interested in qualifying for a Frenchie puppy, don’t hesitate and visit us to apply today."
+            },
+            {
+                "@type": "Question",
+                "name": "How long is the application process?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The process is very quick and only takes a few minutes to get pre-approved. After the paperwork is filled out by both parties, we can start scheduling the date of the puppy pick up/delivery. 
+                    We work with a highly reliable flight nanny in case the delivery to another state Is required. The cost of the flight nanny (if you are out of state) can be included in your financing fee as well."
+            },
+            {
+                "@type": "Question",
+                "name": "What are my options, other than financing?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can always reach out to local rescues, or nationwide French Bulldog rescues and open your home to a French Bulldog adult in need. 
+                    Another suggestion that we have would be reaching out to local breeders and inquiring about their adult French Bulldogs that they are planning to retire. The fee is usually anything between 500-1000$, depending on the breeder and the area."
+            },
+            }
+        ]
+    }
+</script>
 {{ end }}
