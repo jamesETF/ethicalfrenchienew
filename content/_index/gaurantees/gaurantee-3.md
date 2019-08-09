@@ -1,6 +1,6 @@
 +++
 icon = "fas fa-code"
-title = "Adopt a Frenchie = Save an Animal"
+title = "Help an Animal in Need"
 weight = 30
 [asset]
 image = "buy.png"
