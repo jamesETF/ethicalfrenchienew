@@ -5,4 +5,8 @@ weight = 10
 image = "healthy.png"
 
 +++
-Being an ethical French Bulldog Breeder requires a lot of preparation and health testing before producing a litter. Click here to learn more about the measures we implement prior to breeding and while whelping a French Bulldog litter. Just like with every animal, there aren’t any life long guarantees, but we like to do our best to produce the healthiest French Bulldog Puppies.
+Being an **ethical French Bulldog Breeder** requires a lot of preparation and health testing before producing a litter. 
+
+It's a huge investment - time and money wise. But we work hard and do our best to produce the healthiest **French Bulldog Puppies.**
+
+ [**_Ever wondered what makes a French Bulldog expensive? Click here to learn._**](https://ethicalfrenchie.com/blog/why-french-bulldogs-are-expensive-before-adoption/ "Why French Bulldogs are Expensive")
