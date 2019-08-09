@@ -1,14 +1,10 @@
 +++
-fragment = "item"
-#disabled = false
-weight = 100
 align = "right"
-
+fragment = "item"
 title = "Ethical Frenchie"
-#subtitle = ""
-
+weight = 100
 [asset]
-  image = "logo.png"
-+++
+image = "logo.png"
 
-The most Exclusive yet Accessible Frenchie breeder on the East Coast
++++
+The most Exclusive yet Accessible **Frenchie breeder** on the East Coast
