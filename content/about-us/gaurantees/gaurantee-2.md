@@ -17,8 +17,8 @@ _Yes, all puppies are born deaf and blind_ – they rely on their sense of smell
 
 It’s hard to believe but some **puppies** show their dominance and alpha qualities at a very early age. We pay special attention to those and make sure we don’t enforce those traits. We try to establish ourselves as the leader of the pack, which will make your training easier once the **puppy** is in your care.
 
-By the time they are ready they understand the concept of peeing on the pee pad and those that stay with us longer are familiar with the “potty” command. Some are more stubborn than others, so consistency with training is key. 
+By the time they are ready they understand the concept of peeing on the pee pad and those that stay with us longer are familiar with the “potty” command. Some are more stubborn than others, so consistency with training is key.
 
-[_You can read more about French Bulldog potty training here._](https://askfrankie.co/french-bulldog-potty-training/ "French Bulldog Potty Training")
+[**_You can read more about French Bulldog potty training here._**](https://askfrankie.co/french-bulldog-potty-training/ "French Bulldog Potty Training")
 
 Overall exposing the **French Bulldog puppies** to positive and versatile experiences is what will predispose them to grow into stable, happy individuals with the absence of phobias and behavioral issues.
