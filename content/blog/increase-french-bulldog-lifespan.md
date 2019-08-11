@@ -16,15 +16,15 @@ align = "right"
 title = "Other Blog Posts"
 
 +++
-## French Bulldog Lifespan is generally between 10-14 years. Breed and genetics do play a role, but there are still many factors within your control. Make these small changes today to increase longevity of your Frenchie.
+## French Bulldog Lifespan is generally between 10-14 years. Breed and genetics do play a role, but there are still many factors within your control. Make these small changes today to increase your French Bulldog's longevity.
 
-### 1. Oral Care
+### **1. Oral Care**
 
 I can't emphasize this enough. Keep your Frenchies teeth clean. Daily or at least weekly brushing. 
 
 **_Why is this important you ask?_**
 
-Well,  dogs over the age of 3 have a 80% chance of getting some form of gum disease. Bacteria builds up over the years and can cause  gingivitis and other forms of disease in the oral cavity.
+Well,  dogs over the age of 3 have a 85% chance of getting some form of gum disease. Bacteria builds up over the years and can cause  gingivitis and other forms of disease in the oral cavity.
 
 Harmful bacteria and toxins will enter the body via the bleeding gums and affect the vital organs, especially in older Frenchies.
 
@@ -32,7 +32,7 @@ Oral care alone can add up to 2 year to your **French Bulldog's lifespan**.
 
 [**_If you aren't a fan of brushing, you can always use this water additive to support healthy gums._**](https://www.amazon.com/Oxyfresh-Premium-Dental-Care-Solution/dp/B002OXHJ6Y/ref=sr_1_4?keywords=dog+oral+care&qid=1565496400&s=gateway&sr=8-4 "Dog Oral Care")
 
-### 2. Fresh Food Diet
+### **2. Fresh Food Diet**
 
 ![Image of a fresh cooked meal for your French Bulldog](/images/home-cooked-food-for-your-french-bulldog_3.jpg "Fresh-French-Bulldog-Food")
 
@@ -46,7 +46,7 @@ If your on a budget add fresh ingredients to your dog's kibble. Even a small amo
 
 [**_Click here to check some of the dog foods we highly recommend._**](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Best French Bulldog Foods")
 
-### 3. Avoid Anything Containing Sunflower Oil and Corn
+### **3. Avoid Anything Containing Sunflower Oil and Corn**
 
 Studies have shown that Sunflower oil increases cancer in dogs by 69%. Why do so many dog food brands still use it as an ingredient? Hmm..
 
@@ -56,7 +56,7 @@ Extra work involved in processing it can cause premature aging so many dogs. Let
 
 The breakdown of corn also produces a lot of nitrates, which put extra strain on the kidneys - since they have to filter out the toxins.
 
-### 4. Joint Support
+### **4. Joint Support**
 
 ![image of a joint support dog supplement](/images/joint-support-supplement.png "joint-support-dog-supplement")
 
@@ -70,7 +70,7 @@ Keep your doggo lean. Extra weight will put stress on the joints. Keep your Fren
 
 Invest in a good joint supplement. Chances are your dog isn't getting the significant amount needed from the commercial food brand he's eating. I recommend using something like the [**Agility Formula by Life's Abundance**](https://lifesabundance.com/pets/supplements/agility.aspx "Dog Joint Supplement ").
 
-### 5. Use Organic Household Products
+### **5. Use Organic Household Products**
 
 If the household product that we use daily for either cleaning the floors, kitchen surfaces, windows, all the air-fresheners, laundry detergents, etc, cause health issues for humans and have been a proven carcinogen, think about how that affects the smallest members of our family.
 
@@ -84,7 +84,7 @@ Be mindful next time you're buying cleaning supplies. Keep things natural and or
 
 Don't wait until it's too late. Find a trustworthy and honest vet, that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs.
 
-Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto vaccine have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your high-risk geographical location.
+Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto, have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your highly-risky geographical location.
 
 ## Final Thoughts
 
