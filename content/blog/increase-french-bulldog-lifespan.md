@@ -8,9 +8,9 @@ display_date = true
 fragment = "blog"
 page_type = "blog"
 summary = "We all want our canine companions to be around as long as possible. Increase your French Bulldogs Life expectancy by following these simple steps."
-title = "Increase French Bulldog Lifespan"
+title = "Increase French Bulldog Lifespan With These Few Simple Steps"
 [asset]
-image = "/images/black-french-bulldog.jpg"
+image = "/images/French-bulldog-excercise-1.jpg"
 [sidebar]
 align = "right"
 title = "Other Blog Posts"
