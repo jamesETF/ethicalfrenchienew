@@ -8,7 +8,7 @@ display_date = true
 fragment = "blog"
 page_type = "blog"
 summary = "We all want our canine companions to be around as long as possible. Increase your French Bulldogs Life expectancy by following these simple steps."
-title = "Increase French Bulldog Lifespan With These Few Simple Steps"
+title = "How to Increase French Bulldog Lifespan"
 [asset]
 image = "/images/French-bulldog-excercise-1.jpg"
 [sidebar]
@@ -52,7 +52,7 @@ Studies have shown that Sunflower oil increases cancer in dogs by 69%. Why do so
 
 We mentioned corn in the first paragraph of this blog. It's a well know allergen in dogs and just overall not a good ingredient, since is difficult to digest.
 
-Extra work involved in processing it can cause premature aging so many dogs. Let's explain why. After ingesting corn (which is an inferior form of protein) the liver needs to work extra hard to get the usable protein out of it.
+Extra work involved in processing it can cause premature aging in so many dogs. Let's explain why. After ingesting corn (which is an inferior form of protein) the liver needs to work extra hard to get the usable protein out of it.
 
 The breakdown of corn also produces a lot of nitrates, which put extra strain on the kidneys - since they have to filter out the toxins.
 
@@ -82,7 +82,7 @@ Be mindful next time you're buying cleaning supplies. Keep things natural and or
 
 ![Image of an adorable pied french bulldog walking on a leash](/images/French-bulldog-walking.jpg "french-bulldog-walking")
 
-Don't wait until it's too late. Find a trustworthy and honest vet, that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs.
+Don't wait until it's too late. Find a trustworthy and honest vet that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs.
 
 Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto, have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your highly-risky geographical location.
 
