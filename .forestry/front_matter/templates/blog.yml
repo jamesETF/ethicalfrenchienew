@@ -65,6 +65,7 @@ fields:
   label: Page Type
   default: blog
 pages:
+- content/blog/increase-french-bulldog-lifespan.md
 - content/blog/french-bulldog-care-13-best-dog-food-brands.md
 - content/blog/traits-of-a-french-bulldog-you-may-not-know.md
 - content/blog/what-is-a-blue-french-bulldog-and-how-to-care-for-them.md
