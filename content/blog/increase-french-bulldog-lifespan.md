@@ -20,7 +20,9 @@ title = "Other Blog Posts"
 
 ### 1. Oral Care
 
-I can't emphasize this enough. Keep your Frenchies teeth clean. Daily or at least weekly brushing. Why is this important you ask?
+I can't emphasize this enough. Keep your Frenchies teeth clean. Daily or at least weekly brushing. 
+
+**_Why is this important you ask?_**
 
 Well,  dogs over the age of 3 have a 80% chance of getting some form of gum disease. Bacteria builds up over the years and can cause  gingivitis and other forms of disease in the oral cavity.
 
@@ -80,7 +82,7 @@ Be mindful next time you're buying cleaning supplies. Keep things natural and or
 
 ![Image of an adorable pied french bulldog walking on a leash](/images/French-bulldog-walking.jpg "french-bulldog-walking")
 
-Don't wait until it's too late. Find a trustworthy and honest vet, that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs. 
+Don't wait until it's too late. Find a trustworthy and honest vet, that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs.
 
 Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto vaccine have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your high-risk geographical location.
 
