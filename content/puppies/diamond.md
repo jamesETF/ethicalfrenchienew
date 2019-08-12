@@ -2,6 +2,7 @@
 author = "James Harrison"
 date = "2019-07-01T17:00:00-04:00"
 description = "Looking for Blue French Bulldog Puppies near me? Meet Leia. A little blue frenchie girl located in New York City."
+draft = true
 fragment = "puppy"
 page_type = "puppy"
 summary = "Leia is a solid blue French Bulldog female. Her sweet and playful personality will win your heart over any day."
