@@ -8,7 +8,7 @@ display_date = true
 fragment = "blog"
 page_type = "blog"
 summary = "We all want our canine companions to be around as long as possible. Increase your French Bulldogs Life expectancy by following these simple steps."
-title = "How to Increase French Bulldog Lifespan"
+title = "How to Increase French Bulldog Lifespan With These Simple Steps"
 [asset]
 image = "/images/French-bulldog-excercise-1.jpg"
 [sidebar]
@@ -78,13 +78,25 @@ French Bulldogs love lounging around on the floors and are notorious for licking
 
 Be mindful next time you're buying cleaning supplies. Keep things natural and organic.
 
-### 6. Regular Vet Check Ups
+### **6. Regular Vet Check Ups**
 
 ![Image of an adorable pied french bulldog walking on a leash](/images/French-bulldog-walking.jpg "french-bulldog-walking")
 
 Don't wait until it's too late. Find a trustworthy and honest vet that has your Frenchies best interest at heart. Do a yearly blood work panel to detect any abnormalities, especially in older dogs.
 
 Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto, have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your highly-risky geographical location.
+
+### **Doggie Stairs**
+
+French Bulldogs are prone to IVDD - Intervertebral disk disease (IVDD), often referred to as a slipped or herniated disk, refers to a syndrome of pain and neurological problems that accompany degeneration of one or more intervertebral disks. 
+
+[**_Click here to learn more about IVDD in dogs and the most common symptoms._**](https://thepetwiki.com/wiki/intervertibral_disc_disease/ "IVDD in dogs")
+
+You can prevent this from happening by simply training your Frenchie to use the doggie stairs instead of jumping on and off of high surfaces (beds, couches, stairs,...)
+
+Too many young French Bulldogs end up paralyzed, or worse, euthanized due to the irreversible effects of IVDD. 
+
+[**Doggie stairs**](https://www.amazon.com/PetSafe-Solvit-PupSTEP-Stairs-Foldable/dp/B000MD57OO/ref=sr_1_1_sspa?keywords=dog+stairs&qid=1565577436&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExV1JLU0lGME1RN1RUJmVuY3J5cHRlZElkPUEwNDY5Nzg1MkFDN0M0S045SVIySCZlbmNyeXB0ZWRBZElkPUEwMzk1MzUxMlRIM0Q4V1NDUkNHRiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU= "Doggie Stairs") can be a literal life saved for your furry friend. 
 
 ## Final Thoughts
 
