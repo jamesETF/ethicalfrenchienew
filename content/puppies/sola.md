@@ -1,48 +1,87 @@
 +++
 author = "James Harrison"
 date = "2019-07-01T17:00:00-04:00"
-description = "Meet Sola. She’s Electras big sister. I think that everybody that met her so far, feels the same way that I do when I say, this French Bulldog puppy is extremely unique. Her structure is stocky and compact, she has the true French bulldog look, with some exotic touches. Her eyes are two different Blue colors, and look great in contract to her white coat. One of her eyes has an eyeliner look to it, which is beyond adorable. She is definitely one of a kind and very exceptional. SO if you are looking into French Bulldog puppies for adoption, you should come meet our special little girl."
+description = "Looking for Lilac French Bulldog Puppies for sale? Meet Ace, our Lilac and Tan boy! He's a rare beauty and trying to find his forever family. Location: New York City"
+draft = true
 fragment = "puppy"
 page_type = "puppy"
-summary = "I'm Sola, Electras big sister.\n"
-title = "Sola"
+summary = "Lilac and Tan - I'm a rare little guy!"
+title = "Ace"
 title_align = "left"
 weight = 103
 [asset]
-image = "/images/sola.jpg"
+image = "/images/Lilac-French-Bulldog.jpg"
 
 +++
-Meet Sola. She’s Electras big sister. I think that everybody that met her so far, feels the same way that I do when I say, this French Bulldog puppy is extremely unique. Her structure is stocky and compact, she has the true French bulldog look, with some exotic touches. Her eyes are two different Blue colors, and look great in contract to her white coat. One of her eyes has an eyeliner look to it, which is beyond adorable. She is definitely one of a kind and very exceptional. SO if you are looking into French Bulldog puppies for adoption, you should come meet our special little girl.
+# Lilac French Bulldog Puppy for Sale ♥ Ace ♥
 
-![Photo of sola](/images/sola_1.jpg)
+## Hello! Learn more about Ace – one of our adorable **Lilac French Bulldog Puppies for sale in NYC.**
 
-### Personality
+**Age:** 10 weeks
 
-When looking for French Bulldog Puppies for adoption – it’s important to pick the right personality. Since birth this French Bulldog puppy was the more dominant sister, way bigger than Electra and always stepped all over her during feeding time. She likes to be the boss and have all eyes on her, however she is never dominant towards other animals or what you would consider an “alpha female” to be. If you are looking for a French bulldog puppy for sale, and would like to add a Frenchie puppy that is more exotic and one in a million, Sola might just be your perfect fit.
+**Gender:** Male
 
-![Photo of sola](/images/sola_2.jpg)
-![Photo of sola](/images/sola_3.jpg)
+**Color:** Lilac and Tan
 
-Our French Bulldog puppies are bread for health and temperament, always sweet to kids and get along with other dogs. She loves being carried around the city and meeting other French Bulldog puppies in New York City. Can’t go to the dog park yet, but when she’s ready she will rule the park for sure. We can’t believe she went from being a tiny little nugget – to the adorable little French Bulldog puppy she is today.
+**Location:** Manhattan, New York City
 
-### Health
+### **Personality:**
 
-If you researched the breed before deciding to buy a French Bulldog puppy, you know the breed in itself comes with some allergies and is very delicate indeed. Sola comes from healthy bloodlines and aren’t predisposed to any genetic conditions. Before leaving for their homes she will be up to date on their shots, dewormed on multiple occasions and free of any intestinal parasites, microchipped and pre-spoiled. They also come with a health guarantee. Her mom is a solid blue, her dad a blue merle, both have little to no issues and are panel 4 clear.
+ Hey! My name is Ace, I’m the cool guy of the litter.
 
-![Photo of sola](/images/sola_4.jpg)
+I’m a **lilac French Bulldog puppy for sale** located in **New York City**. And not just a regular **lilac**, lilac with tan points, which makes me quite rare.
 
-If you are a first time French Bulldog owner, feel free to check out our blog. It will offer some insight into where to go food and general care wise. All the food and grooming supplies we recommend are easy accessible for someone who is looking for French bulldog puppies for adoption in New York.
+You won’t see another **French Bulldog Puppy** like me strutting the streets of NYC.
 
-### About French Bulldog Puppies for Sale in PA and Why Choosing and Reputable Breeder Matters
+I’m loving, playful but also like to keep my brothers and sisters on their toes. They definitely get their daily amount of exercise with me in the house.
 
-Even though most of our clients are located in either NYC or NC, we sometimes get contacted by people looking for French Bulldog puppies for sale in PA. And there is nothing wrong with that, it’s a short 2 hour drive to deliver a puppy to you. We are very flexible.
+### **Health:**
 
-Most people are aware how important due diligence is when searching for French bulldog puppies for sale in PA. Online searching for French Bulldog puppies for sale in PA will often bring you to different listings that advertise French Bulldog puppies from puppy mills.
+I don’t even have to explain how healthy I am, my running around and jumping around speaks for itself.
 
-Puppy millers or backyard breeders will go above and beyond to convince you, you are getting a healthy puppy, but 90% of the time that is not the case. You might end up with a broken heart and a lot of vet bills.
+**Lilac French Bulldog Puppies for sale** have a coat that is lighter than a regular blue coat, so they do need a quality shampoo to keep that light coat looking clean and shiny.
 
-Don’t get me wrong, there are good breeders in Pennsylvania, but make sure to do your research before committing to a puppy. Many people are impulse buyers, and won’t be able to say no when presented with a picture of a cute French Bulldog.
+[**_We highly recommend this wonderful shampoo to keep your Frenchie's coat looking spot on._**](https://www.amazon.com/4-Legger-Certified-Organic-Shampoo-Hypoallergenic/dp/B011ESJXRW/ref=sr_1_1_sspa?keywords=4+legger&qid=1565406096&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzBPNVFYRzVXNUZHJmVuY3J5cHRlZElkPUEwMTE4MzY4MUNMRlpFMVBRMzlYUCZlbmNyeXB0ZWRBZElkPUEwMzUyMzAwMTcxNFA5OTk4NUpGOCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU= "French Bulldog Shampoo")
 
-Ethical Frenchie will meet you half way or deliver a puppy to you if you are looking for French Bulldog puppies for sale in PA but have doubts regarding the breeders you spoke to and trouble committing to a new family member.
+Before Ace goes home he  will receive 2 sets of shots, heatworm prevention treatment, tick and flea treatment, multiple dewormings and I will also get microchipped.
 
-**Location**: PA
+Our personal vet will issue a fresh bill of health before puppy departs for his new home.
+
+  
+![](/images/Lilac-french-bulldog-puppy.jpg)
+
+### **Feeding:** 
+
+Ace, just like his siblings eats the same mixture of kibble and Fresh Pet Chicken food.
+
+But he does like to pace around when the adults are being fed – they are being fed a raw diet. So it looks like little Ace has an interest in the raw diet himself. 
+
+The raw diet is highly recommended for the French Bulldog breed. 
+
+Ace is also getting his daily multivitamin and Omega 3 supplement from [**The Natur**]()[**al Dog Company**](https://naturaldogcompany.com/product-category/dog-supplements/ "Natural Dog Company Supplements"). I’m obsessed with every product they put out and they work great for French Bulldogs and their sensitive skin.
+
+**Want to feed something else? Check out what the** [**best food brands for French Bulldogs here**](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Best Food for French Bulldogs")**.**
+
+### **Adoption requirements**:
+
+* Click here to fill out our adoption application
+* If the adoption application gets approved, we will follow up with you for a short over the phone/in person interview
+* A deposit is required to hold a puppy
+
+![](/images/lilac-and-tan-french-bulldog.jpg)
+
+### **Financing Options:**
+
+We offer financing through a third party company we occasionally partner with. The application process is very smooth and simple and offers financing to up to 5 years.
+
+[**If interested in financing a lilac french bulldog puppy for sale click here.**]()
+
+### **Health Testing:**
+
+Our **lilac French bulldog puppies for sale** come from health tested parents, but additional health testing can be preformed on the specific puppy at the buyers expense.
+
+**We offer health testing through:**
+
+* **Embarkvet.com**
+* **UC Davis**
+* **Animal Genetics**
