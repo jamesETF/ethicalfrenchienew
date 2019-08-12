@@ -86,7 +86,7 @@ Don't wait until it's too late. Find a trustworthy and honest vet that has your 
 
 Keep your pooch up to date on shots, but don't over-vaccinate. Some vaccines like Lyme and Lepto, have been proven to cause allergic reactions and long-term issues with the bulldog breed, and should in my opinion be avoided, unless strictly advised by your vet due to your highly-risky geographical location.
 
-### **7.Doggie Stairs**
+### **7. Doggie Stairs**
 
 French Bulldogs are prone to IVDD - Intervertebral disk disease (IVDD), often referred to as a slipped or herniated disk, refers to a syndrome of pain and neurological problems that accompany degeneration of one or more intervertebral disks. 
 
