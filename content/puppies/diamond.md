@@ -1,39 +1,75 @@
 +++
 author = "James Harrison"
 date = "2019-07-01T17:00:00-04:00"
-description = "Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere."
+description = "Looking for Blue French Bulldog Puppies near me? Meet Leia. A little blue frenchie girl located in New York City."
 fragment = "puppy"
 page_type = "puppy"
-summary = "Diamond is a Merle French Bulldog Puppy available for the right family, Currently located in NYC, She can be delivered anywhere.\n"
-title = "Diamond"
+summary = "Leia is a solid blue French Bulldog female. Her sweet and playful personality will win your heart over any day."
+title = "Leia"
 title_align = "left"
 weight = 100
 [asset]
-image = "/images/diamond.jpg"
+image = "/images/leia.jpg"
 
 +++
-We are Ethical Frenchie, thank you for your interest in one of our blue French Bulldog puppies for sale.
+# **Blue French Bulldog Puppy For Sale** ♥ Leia ♥
 
+## If you are searching for **French Bulldog Breeders near me** – meet  Leia our **blue French bulldog puppy for sale.**
 
-Let’s explain our background really quick. We are a couple hobby breeder, that strives to provide health, happy puppies, that will bring joy and excitement to any family. Our live is divided between North Carolina and New York City, due to our regular job, so puppies can be picked up at both placed.
+**Age:** 10 weeks
 
-Our boy Charlie really makes the most gorgeous blue French Bulldog puppies. Diamond is just another example or an adorable, compact blue French Bulldog puppy from our breeding program.
+**Gender:** Female
 
-### Personality
+**Color:** Blue
 
-Diamond is definitely full of attitude. She will tell you what she wants, when she wants it, and you won’t be able to say no. She’s smart and sassy, and her potty training habits should be easily established. She will do everything for a treat, including potty outside without any issues.
+**Location:** Manhattan, New York City
 
-We are being very selective to who gets Diamond. We want to find her a home with humans that searched for specifically what she is: a loving, needy, playful, smart attentive blue Frenchie puppy that needs lost of cuddles and attention. She also loves running through the woods, so if you are looking for French Bulldog Puppies for sale NC, she might just be the right choice for your family.
+### **Personality:** 
 
-### Health
+Hello! My name is Leia and I’m a solid **blue Frenchie girl for sale** located in **New York**. My personality is sweet, playful and curious. I love chewing on different bones and hiding them around the house or burying them under blankets.
 
-We focus on health first. We health test the parents before ever considering breeding them and make sure no genetic issues derive from the bloodline. That way we produce healthy puppies, without hereditary issues. If you are looking for French Bulldog puppies for sale NC or New York City, you probably already did your research and know they don’t do well in the heat. So during the hot New York summer, they should be chilling under the AC and not be exposed to the hot temperatures. They have issues with regulating body temperature and overheating can be fatal for a French Bulldog puppy. She’s up to date on her shots, dewormings, vet checked, microchipped and ready to meet her new family!
+I’m very relaxed and don’t cause much trouble. I love people and would prefer a family that likes to keep their Frenchie engaged and social – I will go everywhere with you, including the bar.
 
-Blue French Bulldog Puppies for sale are not that hard to find – what is hard to find is an ethical breeder that will deliver a French Bulldog puppy that will fit your family and cause no behavioral issues.
+### **Health:** 
 
-![photo of diamond](/images/diamond_1.jpg)
+![](/images/blue-french-bulldog-puppy.jpg)
 
-Diamond will be on the smaller side, but her personality is huge and she will steal the show, everywhere she goes. Are you ready to add this little girl to your family? Fill out our contact form and we will be with you shortly. To see our other French Bulldog Puppies for sale in NC click here:
-[Puppies](/puppies)
+I’m a super health and spunky **blue French Bulldog** female. Food motivated and I will be easy to train if you bring snackz.
 
-**Location**: NYC
+Before I go home I will receive 2 sets of shots, heatworm prevention treatment, tick and flea treatment, deworming and I will also get microchipped.
+
+Vet will issue a fresh health certificate before I leave.
+
+### **Feeding:** 
+
+Leia eats a mixture of kibble and Fresh Pet foot, combined with some bone broth. He also receives a daily multivitamin and omega 3 supplement.
+
+Omega 3 help with the sensitive French Bulldog skin and keep their coat looking nice.
+
+Leia is also a fan of goat milked serves with some blueberries – so now you know the key to her heart.
+
+[**_Check out what the best food brands for French Bulldogs are here._**](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Best French Bulldog Brands")
+
+### **Adoption requirements**:
+
+* Click here to fill out our adoption application
+* If the adoption application gets approved, we will follow up with you for a short over the phone/in person interview
+* A deposit is required to hold this **blue French Bulldog Puppy**
+
+### **Financing Options:**
+
+We offer financing through a third party company we occasionally partner with. The application process is very smooth and simple and offers financing to up to 5 years.
+
+**If interested in financing click here**
+
+### **Health Testing:**
+
+![](/images/Blue-french-bulldog-puppy-new-york.jpg)
+
+Our **blue French bulldog puppies for sale** come from health tested parents, but additional health testing can be preformed on the specific puppy at the buyers expense.
+
+**We offer health testing through:**
+
+* **Embarkvet.com**
+* **UC Davis**
+* **Animal Genetics**
