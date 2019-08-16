@@ -2,7 +2,7 @@
 author = "James Harrison"
 date = "2019-07-01T17:00:00-04:00"
 description = "Looking for Lilac French Bulldog Puppies for sale? Meet Ace, our Lilac and Tan boy! He's a rare beauty and trying to find his forever family. Location: New York City"
-draft = true
+draft =false
 fragment = "puppy"
 page_type = "puppy"
 summary = "Lilac and Tan - I'm a rare little guy!"
